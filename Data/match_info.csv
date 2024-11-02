@@ -1,0 +1,985 @@
+match_id,home_team,away_team,year,tournament,season,home_score,away_score
+12437045,Chelsea,Newcastle United,24/25,Premier League,Premier League 24/25,3,3
+12437046,Crystal Palace,Tottenham Hotspur,24/25,Premier League,Premier League 24/25,1,1
+12437050,West Ham United,Manchester United,24/25,Premier League,Premier League 24/25,2,2
+12437040,Arsenal,Liverpool,24/25,Premier League,Premier League 24/25,3,3
+12437618,Leganés,Celta Vigo,24/25,LaLiga,LaLiga 24/25,4,4
+12437607,Getafe,Valencia,24/25,LaLiga,LaLiga 24/25,1,1
+12437613,Real Betis,Atlético Madrid,24/25,LaLiga,LaLiga 24/25,1,1
+12437625,Real Sociedad,Osasuna,24/25,LaLiga,LaLiga 24/25,0,0
+12437611,Mallorca,Athletic Club,24/25,LaLiga,LaLiga 24/25,1,1
+12499340,Lazio,Genoa,24/25,Serie A,Serie A 24/25,4,4
+12499341,Monza,Venezia,24/25,Serie A,Serie A 24/25,2,2
+12499339,Inter,Juventus,24/25,Serie A,Serie A 24/25,4,4
+12499338,Fiorentina,Roma,24/25,Serie A,Serie A 24/25,6,6
+12499737,VfL Bochum 1848,FC Bayern München,24/25,Bundesliga,Bundesliga 24/25,0,0
+12499734,1. FC Union Berlin,Eintracht Frankfurt,24/25,Bundesliga,Bundesliga 24/25,1,1
+12499720,1. FC Heidenheim,TSG Hoffenheim,24/25,Bundesliga,Bundesliga 24/25,1,1
+12451054,Olympique Lyonnais,Auxerre,24/25,Ligue 1,Ligue 1 24/25,2,2
+12451055,Montpellier,Toulouse,24/25,Ligue 1,Ligue 1 24/25,1,1
+12451051,Nice,AS Monaco,24/25,Ligue 1,Ligue 1 24/25,2,2
+12451056,RC Strasbourg,Nantes,24/25,Ligue 1,Ligue 1 24/25,3,3
+12451053,Olympique de Marseille,Paris Saint-Germain,24/25,Ligue 1,Ligue 1 24/25,1,1
+12514052,Sporting Braga,SC Farense,24/25,Liga Portugal Betclic,Liga Portugal 24/25,3,3
+12514051,Benfica,Rio Ave,24/25,Liga Portugal Betclic,Liga Portugal 24/25,5,5
+12514055,CF Estrela Amadora,Vitória SC,24/25,Liga Portugal Betclic,Liga Portugal 24/25,3,3
+12514057,AVS - Futebol SAD,FC Porto,24/25,Liga Portugal Betclic,Liga Portugal 24/25,0,0
+12448395,FC Twente,Heracles Almelo,24/25,Eredivisie,Eredivisie 24/25,5,5
+12448396,Ajax,Willem II Tilburg,24/25,Eredivisie,Eredivisie 24/25,2,2
+12448394,AZ Alkmaar,Go Ahead Eagles,24/25,Eredivisie,Eredivisie 24/25,3,3
+12117282,Cuiabá,Corinthians,2024,Brasileirão Série A,Brasileiro Serie A 2024,1,1
+12117278,Vasco,Bahia,2024,Brasileirão Série A,Brasileiro Serie A 2024,4,4
+12530882,Alanyaspor,Antalyaspor,24/25,Super Lig,Super Lig 24/25,1,1
+12530878,Fenerbahçe,Bodrum,24/25,Super Lig,Super Lig 24/25,2,2
+12530874,Başakşehir FK,Eyüpspor,24/25,Super Lig,Super Lig 24/25,1,1
+12530880,Galatasaray,Beşiktaş,24/25,Super Lig,Super Lig 24/25,3,3
+12421106,Club Brugge KV,RSC Anderlecht,24/25,First Division A,Pro League 24/25,2,2
+12421110,Royal Antwerp FC,Standard Liège,24/25,First Division A,Pro League 24/25,3,3
+12421108,KAA Gent,KRC Genk,24/25,First Division A,Pro League 24/25,1,1
+12421107,Royale Union Saint-Gilloise,Cercle Brugge,24/25,First Division A,Pro League 24/25,1,1
+12568248,Asteras Aktor,Olympiacos FC,24/25,Super League,Super League 24/25,2,2
+12568249,Panathinaikos,Aris Thessaloniki,24/25,Super League,Super League 24/25,1,1
+12568234,PAOK,OFI Crete,24/25,Super League,Super League 24/25,2,2
+12568235,Athens Kallithea FC,Atromitos Athens,24/25,Super League,Super League 24/25,1,1
+12477081,Hibernian,Heart of Midlothian,24/25,Premiership,Premiership 24/25,2,2
+12477080,Motherwell,Celtic,24/25,Premiership,Premiership 24/25,0,0
+12477079,Rangers,St. Mirren,24/25,Premiership,Premiership 24/25,3,3
+12945333,FC Dinamo Minsk U19,Lokomotiva Zagreb U19,24/25,"UEFA Youth League, Knockout stage",UEFA Youth League 24/25,0,0
+11937370,Platense,Argentinos Juniors,2024,Liga Profesional,Liga Profesional 2024,3,3
+11937373,Banfield,Racing Club,2024,Liga Profesional,Liga Profesional 2024,2,2
+11937368,Boca Juniors,Deportivo Riestra,2024,Liga Profesional,Liga Profesional 2024,2,2
+11937367,Atlético Tucumán,Lanús,2024,Liga Profesional,Liga Profesional 2024,2,2
+11937369,Talleres,Tigre,2024,Liga Profesional,Liga Profesional 2024,1,1
+11937364,Gimnasia y Esgrima,Club Atlético Unión de Santa Fe,2024,Liga Profesional,Liga Profesional 2024,2,2
+11937363,Huracán,Central Córdoba,2024,Liga Profesional,Liga Profesional 2024,1,1
+12420572,Club Necaxa,CD Toluca,2024,"Liga MX, Apertura","Liga MX, Apertura 2024",2,2
+12420577,FC Juárez,Atlético San Luis,2024,"Liga MX, Apertura","Liga MX, Apertura 2024",2,2
+12420575,Club América,CF Monterrey,2024,"Liga MX, Apertura","Liga MX, Apertura 2024",2,2
+12404865,GNK Dinamo Zagreb,NK Osijek,24/25,HNL,HNL 24/25,3,3
+12404864,HNK Gorica,NK Istra 1961,24/25,HNL,HNL 24/25,2,2
+12420443,FK Napredak Kruševac,FK TSC Bačka Topola,24/25,Mozzart Bet Superliga,Superliga 24/25,1,1
+12420434,FK Radnički Niš,FK Mladost Lučani,24/25,Mozzart Bet Superliga,Superliga 24/25,2,2
+13010882,Orlando City SC,Charlotte FC,2024,"MLS, Playoffs",MLS 2024,2,2
+13022403,Los Angeles FC,Vancouver Whitecaps,2024,"MLS, Playoffs",MLS 2024,3,3
+13010885,FC Cincinnati,New York City FC,2024,"MLS, Playoffs",MLS 2024,2,2
+13010890,Seattle Sounders FC,Houston Dynamo,2024,"MLS, Playoffs",MLS 2024,6,6
+12468905,Norwich City,Middlesbrough,24/25,Championship,Championship 24/25,4,4
+12467660,Málaga,Eibar,24/25,LaLiga 2,LaLiga 2 24/25,1,1
+12467662,Deportivo La Coruña,Racing de Santander,24/25,LaLiga 2,LaLiga 2 24/25,1,1
+12467655,Elche,Burgos Club de Fútbol,24/25,LaLiga 2,LaLiga 2 24/25,1,1
+12617262,Albacete Balompié,Sporting Gijón,24/25,LaLiga 2,LaLiga 2 24/25,4,4
+12467661,Huesca,Almería,24/25,LaLiga 2,LaLiga 2 24/25,3,3
+12467658,Granada,Levante UD,24/25,LaLiga 2,LaLiga 2 24/25,1,1
+12467664,Racing de Ferrol,Tenerife,24/25,LaLiga 2,LaLiga 2 24/25,1,1
+12500376,1. FC Magdeburg,Hannover 96,24/25,2. Bundesliga,2. Bundesliga 24/25,1,1
+12500363,Darmstadt 98,SSV Ulm 1846,24/25,2. Bundesliga,2. Bundesliga 24/25,2,2
+12500379,Eintracht Braunschweig,Preußen Münster,24/25,2. Bundesliga,2. Bundesliga 24/25,1,1
+12527732,Catanzaro,Südtirol,24/25,Serie B,Serie B 24/25,4,4
+12527736,Frosinone,Pisa,24/25,Serie B,Serie B 24/25,1,1
+12527738,U.C Sampdoria,Mantova,24/25,Serie B,Serie B 24/25,1,1
+12146528,Coritiba,CRB,2024,Brasileirão Série B,Brasileiro Serie B 2024,2,2
+12146523,Ituano,Santos,2024,Brasileirão Série B,Brasileiro Serie B 2024,1,1
+12146524,América Mineiro,Sport Recife,2024,Brasileirão Série B,Brasileiro Serie B 2024,3,3
+12445047,MVV Maastricht,Helmond Sport,24/25,Eerste Divisie,Eerste Divisie 24/25,1,1
+12596621,Amed Sportif Faaliyetler,Pendikspor,24/25,1. Lig,1. Lig 24/25,1,1
+12596615,Erzurumspor FK,Keçiörengücü,24/25,1. Lig,1. Lig 24/25,4,4
+12596618,İstanbulspor,Boluspor,24/25,1. Lig,1. Lig 24/25,1,1
+12596617,Manisa FK,Esenler Erokspor,24/25,1. Lig,1. Lig 24/25,0,0
+12481094,Grazer AK 1902,SK Rapid Wien,24/25,Bundesliga,Bundesliga 24/25,2,2
+12481098,Wolfsberger AC,Red Bull Salzburg,24/25,Bundesliga,Bundesliga 24/25,1,1
+12481103,LASK,SK Sturm Graz,24/25,Bundesliga,Bundesliga 24/25,2,2
+12463967,Beitar Jerusalem,Maccabi Tel Aviv,24/25,Premier League,Premier League 24/25,4,4
+12463970,Maccabi Netanya,Hapoel Haifa,24/25,Premier League,Premier League 24/25,0,0
+13012918,Maccabi Haifa,Hapoel Hadera,24/25,Premier League,Premier League 24/25,5,5
+13011712,Fortaleza CEIF,Atlético Nacional,2024,"Primera A, Clausura","Primera A, Clausura 2024",1,1
+13011728,Deportivo Cali,Atlético Bucaramanga,2024,"Primera A, Clausura","Primera A, Clausura 2024",1,1
+13011718,Junior Barranquilla,América de Cali,2024,"Primera A, Clausura","Primera A, Clausura 2024",3,3
+13011721,Independiente Medellín,Jaguares de Córdoba,2024,"Primera A, Clausura","Primera A, Clausura 2024",4,4
+12580708,FK Teplice,Bohemians Praha 1905,24/25,1. Liga,1. Liga 24/25,2,2
+12580604,Mladá Boleslav,MFK Karviná,24/25,1. Liga,1. Liga 24/25,2,2
+12580707,SK Slavia Praha,Dukla Praha,24/25,1. Liga,1. Liga 24/25,4,4
+12580607,Viktoria Plzeň,AC Sparta Praha,24/25,1. Liga,1. Liga 24/25,1,1
+12402296,Jagiellonia Białystok,MKS Korona Kielce,24/25,Ekstraklasa,Ekstraklasa 24/25,3,3
+12402294,Widzew Łódź,Górnik Zabrze,24/25,Ekstraklasa,Ekstraklasa 24/25,1,1
+12402304,Legia Warszawa,GKS Katowice,24/25,Ekstraklasa,Ekstraklasa 24/25,5,5
+12407828,Vejle,Lyngby,24/25,Superligaen,Superliga 24/25,3,3
+12407829,Viborg FF,Sønderjyske Fodbold,24/25,Superligaen,Superliga 24/25,5,5
+12407826,FC Midtjylland,AGF,24/25,Superligaen,Superliga 24/25,2,2
+12407827,Randers FC,FC Nordsjælland,24/25,Superligaen,Superliga 24/25,4,4
+12656652,Blackpool,Wigan Athletic,24/25,League One,League One 24/25,2,2
+12991466,Olimpia,Cerro Porteño,2024,"Primera División, Clausura","Division de Honor, Clausura 2024",4,4
+12991503,Guaraní,Sportivo Luqueño,2024,"Primera División, Clausura","Division de Honor, Clausura 2024",3,3
+12014196,Macará,Cumbayá FC,2024,"LigaPro Serie A, Segunda Etapa",LigaPro Primera A 2024,1,1
+12014204,El Nacional,Orense SC,2024,"LigaPro Serie A, Segunda Etapa",LigaPro Primera A 2024,0,0
+12014199,Barcelona SC,Delfín,2024,"LigaPro Serie A, Segunda Etapa",LigaPro Primera A 2024,4,4
+12014195,Imbabura Sporting Club,Técnico Universitario,2024,"LigaPro Serie A, Segunda Etapa",LigaPro Primera A 2024,0,0
+12744968,Mumbai City FC,Odisha FC,24/25,Super League,Indian Super League 24/25,2,2
+11928436,Dundalk FC,Shamrock Rovers,2024,Premier Division,Premier Division 2024,1,1
+13016164,Wexford FC,Athlone Town,2024,"Premier Division, Relegation/Promotion",Premier Division 2024,0,0
+13016167,University College Dublin,Bray Wanderers,2024,"Premier Division, Relegation/Promotion",Premier Division 2024,2,2
+11912251,HamKam,Kristiansund BK,2024,Eliteserien,Eliteserien 2024,2,2
+11912259,Haugesund,Molde FK,2024,Eliteserien,Eliteserien 2024,0,0
+11912260,Lillestrøm SK,Odds BK,2024,Eliteserien,Eliteserien 2024,4,4
+11912233,Sandefjord Fotball,KFUM Oslo,2024,Eliteserien,Eliteserien 2024,2,2
+11912235,Sarpsborg 08,Viking FK,2024,Eliteserien,Eliteserien 2024,2,2
+11912258,SK Brann,Tromsø IL,2024,Eliteserien,Eliteserien 2024,4,4
+11912257,Bodø/Glimt,Rosenborg BK,2024,Eliteserien,Eliteserien 2024,3,3
+12831490,Sport Boys,Universidad Técnica de Cajamarca,2024,"Primera Division, Clausura",Primera Division 2024,2,2
+12831480,Unión Comercio,Club Sporting Cristal,2024,"Primera Division, Clausura",Primera Division 2024,0,0
+12831494,Sport Huancayo,Melgar,2024,"Primera Division, Clausura",Primera Division 2024,3,3
+12831492,Universitario,Cienciano,2024,"Primera Division, Clausura",Primera Division 2024,3,3
+12831481,Alianza Atlético de Sullana,Los Chankas CYC,2024,"Primera Division, Clausura",Primera Division 2024,1,1
+12831498,Comerciantes Unidos,Asociación Deportiva Tarma,2024,"Primera Division, Clausura",Primera Division 2024,0,0
+12831500,Cusco FC,Club Atlético Grau,2024,"Primera Division, Clausura",Primera Division 2024,1,1
+12489710,SC Oțelul Galați,AFC Unirea 04 Slobozia,24/25,Superliga,Superliga 24/25,1,1
+12489715,FCSB,FC Rapid București,24/25,Superliga,Superliga 24/25,0,0
+12489714,FC Botoșani,FC Universitatea Cluj,24/25,Superliga,Superliga 24/25,2,2
+12489713,FC Farul Constanța,Universitatea Craiova,24/25,Superliga,Superliga 24/25,3,3
+11907444,AIK,IF Elfsborg,2024,Allsvenskan,Allsvenskan 2024,2,2
+11907450,IFK Värnamo,IFK Norrköping,2024,Allsvenskan,Allsvenskan 2024,2,2
+11907447,BK Häcken,Halmstads BK,2024,Allsvenskan,Allsvenskan 2024,1,1
+11907445,Djurgårdens IF,Västerås SK,2024,Allsvenskan,Allsvenskan 2024,2,2
+11907446,Malmö FF,IFK Göteborg,2024,Allsvenskan,Allsvenskan 2024,3,3
+12439860,FC Sion,FC St. Gallen 1879,24/25,Super League,Super League 24/25,3,3
+12439861,FC Lugano,Young Boys,24/25,Super League,Super League 24/25,3,3
+12439858,FC Zürich,Servette FC,24/25,Super League,Super League 24/25,2,2
+12662014,Cape Town City FC,Magesi FC,24/25,Premiership,Premiership 24/25,0,0
+12662012,Polokwane City,Mamelodi Sundowns,24/25,Premiership,Premiership 24/25,2,2
+13022369,Atlético Ottawa,York United FC,2024,"Canadian Premier League, Playoffs",Canadian Premier League 2024,8,8
+13008825,Forge FC,Cavalry FC,2024,"Canadian Premier League, Playoffs",Canadian Premier League 2024,0,0
+12453008,FC Khimki,Dynamo Moscow,24/25,Premier League,Premier League 24/25,4,4
+12453110,Zenit St. Petersburg,Lokomotiv Moscow,24/25,Premier League,Premier League 24/25,1,1
+12453112,Krylya Sovetov Samara,FK Krasnodar,24/25,Premier League,Premier League 24/25,2,2
+12065761,Busan I Park,Cheongju FC,2024,K-League 2,K-League 2 2024,1,1
+12065762,Cheonan City FC,Bucheon FC 1995,2024,K-League 2,K-League 2 2024,1,1
+12065760,FC Anyang,Jeonnam Dragons,2024,K-League 2,K-League 2 2024,2,2
+12776232,Al-Wakrah,Al-Sadd,24/25,Stars League,Stars League 24/25,1,1
+12773388,Al-Arabi SC,Qatar SC,24/25,Stars League,Stars League 24/25,5,5
+12773385,Al Duhail,Al-Gharafa,24/25,Stars League,Stars League 24/25,1,1
+12497536,PT Prachuap FC,Uthai Thani FC,24/25,Thai League 1,Thai League 1 24/25,4,4
+12765324,Al Bataeh,Al-Nasr Dubai,24/25,Pro League,Arabian Gulf League 24/25,3,3
+12765325,Shabab Al-Ahli Dubai,Al-Sharjah,24/25,Pro League,Arabian Gulf League 24/25,3,3
+12448681,Koninklijke Lierse Sportkring,RAAL La Louvière,24/25,Challenger Pro League,Challenger Pro League 24/25,1,1
+12448692,RFC Liège,Club NXT U23,24/25,Challenger Pro League,Challenger Pro League 24/25,1,1
+13011670,KAS Eupen,KSC Lokeren-Temse,24/25,Challenger Pro League,Challenger Pro League 24/25,0,0
+12448762,Nyiregyháza Spartacus,Zalaegerszegi TE,24/25,NB I,NB I 24/25,1,1
+12448764,Paksi FC,Kecskemét TE,24/25,NB I,NB I 24/25,1,1
+12448767,ETO FC Győr,Ferencváros TC,24/25,NB I,NB I 24/25,1,1
+12449217,AS Trenčín,FC Spartak Trnava,24/25,Niké Liga,Superliga 24/25,3,3
+12449215,MFK Zemplín Michalovce,MFK Skalica,24/25,Niké Liga,Superliga 24/25,2,2
+11973094,Almirante Brown,Defensores Unidos,2024,Primera B Nacional,Primera Nacional 2024,2,2
+11973085,Agropecuario Argentino,Tristán Suárez,2024,Primera B Nacional,Primera Nacional 2024,0,0
+11973088,Arsenal de Sarandí,Alvarado,2024,Primera B Nacional,Primera Nacional 2024,2,2
+11973103,Atlanta,All Boys,2024,Primera B Nacional,Primera Nacional 2024,1,1
+11973090,Club Atlético Chacarita Juniors,Gimnasia Jujuy,2024,Primera B Nacional,Primera Nacional 2024,1,1
+11973091,Estudiantes de Buenos Aires,Deportivo Maipú,2024,Primera B Nacional,Primera Nacional 2024,3,3
+11973086,Guillermo Brown,Patronato,2024,Primera B Nacional,Primera Nacional 2024,1,1
+11973093,Quilmes Atlético Club,San Miguel,2024,Primera B Nacional,Primera Nacional 2024,1,1
+11973087,San Martín de San Juan,Racing de Córdoba,2024,Primera B Nacional,Primera Nacional 2024,1,1
+11973092,Talleres Remedios de Escalada,Club Ferro Carril Oeste,2024,Primera B Nacional,Primera Nacional 2024,1,1
+12736363,Hilal Al-Quds,Al-Fotuwa,24/25,"AFC Challenge League, Group C",AFC Challenge League 24/25,0,0
+12736372,Paro FC,Nejmeh SC,24/25,"AFC Challenge League, Group A",AFC Challenge League 24/25,2,2
+12586168,Sabah FK,Neftçi Baku PFK,24/25,Premier League,Premier League 24/25,0,0
+12586173,Qarabağ,Şamaxı FK,24/25,Premier League,Premier League 24/25,3,3
+12792339,Al Khalidiyah,East Riffa,24/25,Premier League,Premier League 24/25,3,3
+12792337,Manama Club,Al Riffa,24/25,Premier League,Premier League 24/25,0,0
+12162899,Vitebsk,FK Gomel,2024,Vysshaya League,Vysshaya Liga 2024,1,1
+12162883,Shakhtyor Soligorsk,FC Minsk,2024,Vysshaya League,Vysshaya Liga 2024,1,1
+12753021,CD Real Tomayapo,Club Always Ready,2024,"Division Profesional, Clausura",División Profesional 2024,3,3
+12753032,Guabirá,Independiente Petrolero,2024,"Division Profesional, Clausura",División Profesional 2024,2,2
+12753017,Jorge Wilstermann,Nacional Potosí,2024,"Division Profesional, Clausura",División Profesional 2024,3,3
+12753012,Oriente Petrolero,San Antonio Bulo-Bulo,2024,"Division Profesional, Clausura",División Profesional 2024,1,1
+13019034,Igman Konjic,FK Sarajevo,24/25,Premier League BiH,Premier League BiH 24/25,1,1
+13019043,NK Široki Brijeg,FK Borac Banja Luka,24/25,Premier League BiH,Premier League BiH 24/25,3,3
+12425088,Ludogorets,FC CSKA 1948 Sofia,24/25,Parva Liga,Parva Liga 24/25,4,4
+12984531,FC Chernomorets 1919 Burgas,Lokomotiv Plovdiv,24/25,Bulgarian Cup,Bulgarian Cup 24/25,4,4
+12984550,FC Rozova Dolina Kazanlak,Arda Kardzhali,24/25,Bulgarian Cup,Bulgarian Cup 24/25,2,2
+12984527,FC Sayana Haskovo,FK Spartak Varna,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984538,FK Dobrudzha Dobrich,CSKA Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984525,FK Sportist Svoge,Botev Vratsa,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984547,FK Yantra Gabrovo,Lokomotiv Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984554,OFC Lokomotiv Mezdra,FK Septemvri Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,2,2
+13029521,Cúcuta Deportivo,Atlético Huila,2024,"Primera B, Clausura, Promotion, Group A",Primera B 2024,1,1
+13041742,Real Cundinamarca,Unión Magdalena,2024,"Primera B, Clausura, Promotion, Group A",Primera B 2024,2,2
+12447865,AD Guanacasteca,Municipal Liberia,2024,"Primera División, Apertura","Primera Division, Apertura 2024",2,2
+12447858,Sporting San José,Herediano,2024,"Primera División, Apertura","Primera Division, Apertura 2024",1,1
+12497309,Omonia Aradippou,Apollon Limassol,24/25,1st Division,1st Division 24/25,1,1
+12497312,AEL Limassol,AEK Larnaca,24/25,1st Division,1st Division 24/25,2,2
+12497319,ALS Omonia,Pafos FC,24/25,1st Division,1st Division 24/25,2,2
+12497311,Karmiotissa Polemidion,Omonia Nicosia,24/25,1st Division,1st Division 24/25,3,3
+12497305,APOEL Nicosia,Anorthosis Famagusta,24/25,1st Division,1st Division 24/25,2,2
+12451610,FK Varnsdorf,FC Sellier & Bellot Vlašim,24/25,FNL,FNL 24/25,2,2
+12442027,Hobro,FC Fredericia,24/25,1st Division,1. Division 24/25,2,2
+12463379,Nykøbing FC,Thisted,24/25,2nd Division,2nd Division 24/25,3,3
+11990387,Nõmme Kalju,FCI Levadia Tallinn,2024,Premium Liiga,Premium Liiga 2024,0,0
+13008765,FC Lahti,FF Jaro,2024,"Veikkausliiga, Promotion/Relegation",Veikkausliiga 2024,1,1
+11989125,FC Gagra,FC Kolkheti-1913 Poti,2024,Erovnuli Liga,Erovnuli Liga 2024,4,4
+11989123,FC Telavi,FC Dila Gori,2024,Erovnuli Liga,Erovnuli Liga 2024,1,1
+11989126,FC Torpedo Kutaisi,Dinamo Tbilisi,2024,Erovnuli Liga,Erovnuli Liga 2024,3,3
+12525926,Energie Cottbus,TSV 1860 München,24/25,3. Liga,3. Liga 24/25,6,6
+12525929,VfB Stuttgart II,Erzgebirge Aue,24/25,3. Liga,3. Liga 24/25,1,1
+12525932,SV Waldhof Mannheim,SV Wehen Wiesbaden,24/25,3. Liga,3. Liga 24/25,2,2
+12568797,FC Teutonia 05 Ottensen,1.FC Phönix Lübeck,24/25,Regionalliga North,Regionalliga North 24/25,2,2
+12568794,TSV Havelse,Blau-Weiss Lohne,24/25,Regionalliga North,Regionalliga North 24/25,2,2
+12568801,Bremer SV,SV Todesfelde,24/25,Regionalliga North,Regionalliga North 24/25,4,4
+12507388,FC Rot-Weiß Erfurt,Chemnitzer FC,24/25,Regionalliga Northeast,Regionalliga Northeast 24/25,1,1
+12507380,FSV Luckenwalde,VFC Plauen,24/25,Regionalliga Northeast,Regionalliga Northeast 24/25,1,1
+12507387,FSV Zwickau,FC Carl Zeiss Jena,24/25,Regionalliga Northeast,Regionalliga Northeast 24/25,1,1
+12872911,KFC Uerdingen 05,Fortuna Düsseldorf II U23,24/25,Regionalliga West,Regionalliga West 24/25,2,2
+12531527,Eintracht Trier,Stuttgarter Kickers,24/25,Regionalliga Southwest,Regionalliga Southwest 24/25,1,1
+12643020,Accra Hearts of Oak,Bibiani Gold Stars FC,24/25,Premier League,Premier League 24/25,1,1
+12940061,Basake Holy Stars FC,Asante Kotoko SC,24/25,Premier League,Premier League 24/25,1,1
+12643028,Bechem United,Karela United,24/25,Premier League,Premier League 24/25,1,1
+12643022,Heart of Lions,Nsoatreman FC,24/25,Premier League,Premier League 24/25,1,1
+12643068,Nations FC,Vision FC,24/25,Premier League,Premier League 24/25,3,3
+12643023,Samartex,Berekum Chelsea,24/25,Premier League,Premier League 24/25,1,1
+12643074,Young Apostles FC,Dreams,24/25,Premier League,Premier League 24/25,1,1
+12643021,Aduana Stars FC,Medeama,24/25,Premier League,Premier League 24/25,3,3
+12819291,Ethnikos Neou Keramidiou,Niki Volou,24/25,"Super League 2, Group A",Super League 2 24/25,1,1
+12819290,Kampaniakos,AO Kavala,24/25,"Super League 2, Group A",Super League 2 24/25,4,4
+12819289,AE Larisa,AS Makedonikos Neapolis,24/25,"Super League 2, Group A",Super League 2 24/25,2,2
+12818296,APO Panargiakos,AO Egaleo,24/25,"Super League 2, Group B",Super League 2 24/25,1,1
+12818292,Ilioupoli,Kalamata FC,24/25,"Super League 2, Group B",Super League 2 24/25,0,0
+12930484,A.E. Kifisia FC,GE Panachaiki,24/25,Greek Cup Betsson,Greece Cup 24/25,2,2
+12523141,Xinabajul Huehue,CSD Zacapa,2024,"Liga Guate Banrural, Apertura",Liga Nacional. Apertura 2024,2,2
+12868396,Víkingur Reykjavík,Breidablik Kópavogur,2024,"Efsta deild, Championship Round",Besta deild 2024,0,0
+12650996,Bali United FC,Persis Solo,24/25,Liga 1,Liga 1 24/25,3,3
+12651004,Persik Kediri,Persib Bandung,24/25,Liga 1,Liga 1 24/25,0,0
+12755493,Tractor FC,Aluminium Arak,24/25,Pro League,Pro League 24/25,3,3
+12755453,Foolad Khuzestan,Sepahan S.C.,24/25,Pro League,Pro League 24/25,3,3
+13041099,Al Hudod,Al Naft SC,24/25,Stars League,24/25,1,1
+13041817,Naft Al-Basra SC,Al Karma SC,24/25,Stars League,24/25,0,0
+13043047,Newroz SC,Al Talaba,24/25,Stars League,24/25,1,1
+13043049,Naft Missan,Karbalaa FC,24/25,Stars League,24/25,0,0
+12545905,AlbinoLeffe,Padova,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545901,Feralpisalò,Lecco,24/25,"Serie C, Girone A","Serie C, Group A 24/25",3,3
+12545545,Pineto,Ascoli,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12545550,Pontedera,Virtus Entella,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12545559,Lucchese,Pescara,24/25,"Serie C, Girone B","Serie C, Group B 24/25",1,1
+12545209,Avellino,Messina,24/25,"Serie C, Girone C","Serie C, Group C 24/25",7,7
+12545207,Catania,Latina,24/25,"Serie C, Girone C","Serie C, Group C 24/25",1,1
+12545203,Taranto,Turris,24/25,"Serie C, Girone C","Serie C, Group C 24/25",0,0
+12545202,Team Altamura,Juventus Next Gen,24/25,"Serie C, Girone C","Serie C, Group C 24/25",2,2
+12545210,Benevento,Casertana,24/25,"Serie C, Girone C","Serie C, Group C 24/25",2,2
+12545205,Giugliano,Crotone,24/25,"Serie C, Girone C","Serie C, Group C 24/25",1,1
+12545206,Sorrento,Foggia,24/25,"Serie C, Girone C","Serie C, Group C 24/25",2,2
+12598357,Sassuolo U20,Torino U20,24/25,Primavera 1,Primavera 1 24/25,3,3
+12598360,Hellas Verona U20,Atalanta U20,24/25,Primavera 1,Primavera 1 24/25,2,2
+12598355,Fiorentina U20,Milan U20,24/25,Primavera 1,Primavera 1 24/25,2,2
+12177173,Astana,FK Aktobe,2024,Premier League,Premier League 2024,3,3
+12177177,FC Turan,FC Kaysar,2024,Premier League,Premier League 2024,1,1
+12085473,Riga FC,FK Tukums 2000,2024,Virsliga,Virsliga 2024,10,10
+12085469,FK Metta,RFS,2024,Virsliga,Virsliga 2024,2,2
+12444644,FK Kauno Žalgiris,Džiugas Telšiai,2024,A Lyga,A Lyga 2024,0,0
+12444645,FK Sūduva Marijampolė,FK Banga Gargždai,2024,A Lyga,A Lyga 2024,3,3
+12444663,FK Panevėžys,Šiauliai FA,2024,A Lyga,A Lyga 2024,2,2
+12963363,Selangor Football Club,Johor Darul Ta'zim,2024,Super League,Super League 2024,1,1
+12963291,Sabah FC,Kedah,2024,Super League,Super League 2024,5,5
+12653627,Naxxar Lions FC,Marsaxlokk FC,24/25,"Premier League, Opening Round",Premier League 24/25,0,0
+12653626,Mosta FC,Zabbar Saint Patrick FC,24/25,"Premier League, Opening Round",Premier League 24/25,4,4
+12590279,Leones Negros,Celaya FC,2024,"Liga de Expansion MX, Apertura","Liga de Expansion MX, Apertura 2024",1,1
+12590273,Alebrijes de Oaxaca,Tepatitlán FC,2024,"Liga de Expansion MX, Apertura","Liga de Expansion MX, Apertura 2024",0,0
+12531981,Dacia Buiucani,FC Petrocub Hîncesti,24/25,Super Liga,Super Liga 24/25,0,0
+12531969,Sheriff Tiraspol,Zimbru Chişinău,24/25,Super Liga,Super Liga 24/25,5,5
+12969196,Renaissance Zemamra,Fath Union Sport,24/25,Botola Pro D1,Botola Pro D1 24/25,3,3
+12969194,Jeunesse Sportive Soualem,Ittihad Tanger,24/25,Botola Pro D1,Botola Pro D1 24/25,2,2
+12621706,FK Sileks Kratovo,Besa 1976,24/25,1. MFL,1. MFL 24/25,2,2
+12625082,FK Vardar Skopje,FK Rabotnički Skopje,24/25,1. MFL,1. MFL 24/25,1,1
+12625089,KF Gostivar,AP Brera Strumica,24/25,1. MFL,1. MFL 24/25,4,4
+12625085,KF Shkupi,Tikveš Kavadarci,24/25,1. MFL,1. MFL 24/25,3,3
+12621703,KF Shkëndija,FC Struga Trim & Lum,24/25,1. MFL,1. MFL 24/25,1,1
+12625081,Voska Sport,FK Pelister Bitola,24/25,1. MFL,1. MFL 24/25,2,2
+12472158,Portadown FC,Larne FC,24/25,Premiership,Premiership 24/25,3,3
+12448838,Wisła Płock,Wisła Kraków,24/25,I liga,I Liga 24/25,2,2
+12448841,Stal Stalowa Wola,Polonia Warszawa,24/25,I liga,I Liga 24/25,2,2
+12448840,GKS Tychy,Znicz Pruszków,24/25,I liga,I Liga 24/25,1,1
+12932081,Avia Świdnik,Ruch Chorzów,24/25,Puchar Polski,Puchar Polski 24/25,2,2
+12518422,Felgueiras,Marítimo,24/25,Liga Portugal 2,Liga Portugal 2 24/25,2,2
+12518425,Leixões SC,FC Porto B,24/25,Liga Portugal 2,Liga Portugal 2 24/25,3,3
+12518416,CD Mafra,União Leiria,24/25,Liga Portugal 2,Liga Portugal 2 24/25,2,2
+12592422,Amarante FC,Vilaverdense FC,24/25,"Liga 3, Group A",Liga Portugal 3 24/25,1,1
+12592335,Caldas SC,1º Dezembro,24/25,"Liga 3, Group B",Liga Portugal 3 24/25,1,1
+12592337,Académica Coimbra,C.F. Os Belenenses,24/25,"Liga 3, Group B",Liga Portugal 3 24/25,1,1
+12592331,Sporting CP B,SC Lusitânia,24/25,"Liga 3, Group B",Liga Portugal 3 24/25,0,0
+12493978,Alania Vladikavkaz,Chayka Peschanokopskoye,24/25,First League,First League 24/25,2,2
+12493975,KAMAZ Naberezhnye Chelny,FC Sochi,24/25,First League,First League 24/25,1,1
+12493976,Neftekhimik Nizhnekamsk,Sokol Saratov,24/25,First League,First League 24/25,1,1
+12493974,Rodina Moscow,Torpedo Moscow,24/25,First League,First League 24/25,2,2
+13019039,Al Riyadh,Al-Shabab,24/25,King's Cup,Kings Cup 24/25,0,0
+12923109,Al-Ittihad,Al Jandal,24/25,King's Cup,Kings Cup 24/25,2,2
+12923104,Al-Wehda,Al-Qadisiyah,24/25,King's Cup,Kings Cup 24/25,2,2
+12246983,Tanjong Pagar United,Balestier Khalsa,2024,Premier League,Premier League 2024,1,1
+12246985,Albirex Niigata Singapore,Hougang United,2024,Premier League,Premier League 2024,3,3
+12246979,Geylang International,Tampines Rovers,2024,Premier League,Premier League 2024,1,1
+12484257,FC Koper,NK Bravo,24/25,PrvaLiga,PrvaLiga 24/25,4,4
+12484258,Kalcer Radomlje,NK Celje,24/25,PrvaLiga,PrvaLiga 24/25,4,4
+12484255,NK Olimpija Ljubljana,NK Domžale,24/25,PrvaLiga,PrvaLiga 24/25,3,3
+12196916,Varbergs BoIS,Degerfors IF,2024,Superettan,Superettan 2024,0,0
+12196973,Örebro SK,Östers IF,2024,Superettan,Superettan 2024,0,0
+12199061,IK Oddevold,Skövde AIK,2024,Superettan,Superettan 2024,3,3
+11988886,FBK Karlstad,Friska Viljor FC,2024,"Ettan, Norra","Ettan, Norra 2024",1,1
+11988887,Täby FK,Vasalunds IF,2024,"Ettan, Norra","Ettan, Norra 2024",0,0
+11988885,AFC Eskilstuna,Piteå IF,2024,"Ettan, Norra","Ettan, Norra 2024",3,3
+11988889,IFK Stocksund,FC Stockholm Internazionale,2024,"Ettan, Norra","Ettan, Norra 2024",0,0
+11988633,Eskilsminne IF,Falkenbergs FF,2024,"Ettan, Sodra","Ettan, Sodra 2024",2,2
+11988629,FC Rosengård,Lunds BK,2024,"Ettan, Sodra","Ettan, Sodra 2024",4,4
+11988625,BK Olympic,Torslanda IK,2024,"Ettan, Sodra","Ettan, Sodra 2024",3,3
+12442133,FC Wil 1900,FC Vaduz,24/25,Challenge League,Challenge League 24/25,1,1
+12442134,FC Thun,Schaffhausen,24/25,Challenge League,Challenge League 24/25,3,3
+13004675,AS Soliman,US Ben Guerdane,24/25,Ligue 1,Ligue 1 24/25,0,0
+13004679,CS Sfaxien,ES Zarzis,24/25,Ligue 1,Ligue 1 24/25,2,2
+13004672,Stade Tunisien,Avenir Sportif De Gabes,24/25,Ligue 1,Ligue 1 24/25,2,2
+13004681,US Monastir,EGS Gafsa,24/25,Ligue 1,Ligue 1 24/25,2,2
+12989310,Bornova 1877,Fethiyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12989317,Etimesgut Belediyespor,Mardin 1969 Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989297,Sarıyer,Niğde Belediyesi Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989318,Fatih Karagümrük,Tokat Belediye Plevne Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12484433,Veres Rivne,Vorskla Poltava,24/25,Premier League,Premier League 24/25,2,2
+12484437,Dynamo Kyiv,Shakhtar Donetsk,24/25,Premier League,Premier League 24/25,1,1
+13014309,Carabobo,Estudiantes de Mérida,2024,"Primera Division, Clausura, Main Round, Group B",Primera Division 2024,3,3
+13014303,Deportivo La Guaira,Monagas,2024,"Primera Division, Clausura, Main Round, Group B",Primera Division 2024,4,4
+12694137,Hà Nội,Hồng Lĩnh Hà Tĩnh,24/25,V-League 1,V-League 1 24/25,1,1
+12694134,Nam Định,Công An Hà Nội,24/25,V-League 1,V-League 1 24/25,1,1
+12698547,SHB Đà Nẵng,Hải Phòng,24/25,V-League 1,V-League 1 24/25,1,1
+12454752,Aberystwyth Town,The New Saints,24/25,Cymru Premier,Cymru Premier 24/25,3,3
+12454757,Connah's Quay Nomads,Briton Ferry Llansawel AFC,24/25,Cymru Premier,Cymru Premier 24/25,2,2
+13005417,Costa Rica,Panama,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,0,0
+12650088,USA,Iceland,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,3,3
+13031241,North Macedonia,Moldova,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,0,0
+13023005,Ecuador,Chile,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,1,1
+13006575,Germany,Australia,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13038432,Russia,Haiti,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13023006,Spain U17,Ecuador U17,2024,"U17 World Cup, Women, Knockout stage","U17 FIFA World Cup, Women 2024",5,5
+13029226,Japan U17,England U17,2024,"U17 World Cup, Women, Knockout stage","U17 FIFA World Cup, Women 2024",3,3
+12437611,Mallorca,Athletic Club,24/25,LaLiga,LaLiga 24/25,0,0
+12499348,Cagliari,Bologna,24/25,Serie A,Serie A 24/25,1,1
+12499354,Lecce,Hellas Verona,24/25,Serie A,Serie A 24/25,1,1
+12499355,Milan,Napoli,24/25,Serie A,Serie A 24/25,0,0
+12900855,Al Ahly FC,Al-Ain,2024,FIFA Intercontinental Cup,FIFA Intercontinental Cup 2024,3,3
+12970179,CD Villamuriel,Rayo Vallecano,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970160,SD Compostela,Deportivo Alavés,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970153,Astur CF,Real Valladolid,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970192,CE L’Hospitalet,Real Zaragoza,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970193,Real Jaén,Cádiz,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970166,UD Lanzarote,Racing de Santander,24/25,Copa del Rey,Copa del Rey 24/25,4,4
+12970187,UD Poblense,Villarreal,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12375376,River Plate,Atlético Mineiro,2024,"Copa Libertadores, Knockout stage",Copa Libertadores 2024,0,0
+12514057,AVS - Futebol SAD,FC Porto,24/25,Liga Portugal Betclic,Liga Portugal 24/25,1,1
+12117282,Cuiabá,Corinthians,2024,Brasileirão Série A,Brasileiro Serie A 2024,1,1
+12117278,Vasco,Bahia,2024,Brasileirão Série A,Brasileiro Serie A 2024,3,3
+12530874,Başakşehir FK,Eyüpspor,24/25,Super Lig,Super Lig 24/25,1,1
+12530880,Galatasaray,Beşiktaş,24/25,Super Lig,Super Lig 24/25,3,3
+12904468,Southampton,Stoke City,24/25,EFL Cup,EFL Cup 24/25,3,3
+12904463,Brentford,Sheffield Wednesday,24/25,EFL Cup,EFL Cup 24/25,6,6
+12773665,Bayer 04 Leverkusen,SV 07 Elversberg,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773646,FC Augsburg,FC Schalke 04,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773642,Kickers Offenbach,Karlsruher SC,24/25,DFB Pokal,DFB Pokal 24/25,0,0
+12791854,RB Leipzig,FC St. Pauli,24/25,DFB Pokal,DFB Pokal 24/25,5,5
+12773671,1. FC Köln,Holstein Kiel,24/25,DFB Pokal,DFB Pokal 24/25,4,4
+12791853,SSV Jahn Regensburg,SpVgg Greuther Fürth,24/25,DFB Pokal,DFB Pokal 24/25,2,2
+12773663,VfB Stuttgart,1. FC Kaiserslautern,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773652,VfL Wolfsburg,Borussia Dortmund,24/25,DFB Pokal,DFB Pokal 24/25,1,1
+12924425,NEC Nijmegen,PEC Zwolle,24/25,KNVB beker,KNVB beker 24/25,5,5
+12924407,ADO Den Haag,SC Cambuur,24/25,KNVB beker,KNVB beker 24/25,1,1
+12924421,De Graafschap,TOP Oss,24/25,KNVB beker,KNVB beker 24/25,5,5
+12924416,De Treffers,Fortuna Sittard,24/25,KNVB beker,KNVB beker 24/25,1,1
+12924418,Excelsior,VVV-Venlo,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924429,FC Rijnvogels,FC Eindhoven,24/25,KNVB beker,KNVB beker 24/25,0,0
+12924410,Kolping Boys,FC Groningen,24/25,KNVB beker,KNVB beker 24/25,1,1
+12924422,Sparta Nijkerk,VV Capelle,24/25,KNVB beker,KNVB beker 24/25,5,5
+12924424,VV IJsselmeervogels,SC Heerenveen,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924420,vv Noordwijk,FC Dordrecht,24/25,KNVB beker,KNVB beker 24/25,3,3
+11937364,Gimnasia y Esgrima,Club Atlético Unión de Santa Fe,2024,Liga Profesional,Liga Profesional 2024,2,2
+11937363,Huracán,Central Córdoba,2024,Liga Profesional,Liga Profesional 2024,0,0
+13010885,FC Cincinnati,New York City FC,2024,"MLS, Playoffs",MLS 2024,2,2
+13010890,Seattle Sounders FC,Houston Dynamo,2024,"MLS, Playoffs",MLS 2024,5,5
+13010881,Columbus Crew,New York Red Bulls,2024,"MLS, Playoffs",MLS 2024,1,1
+13010887,Real Salt Lake,Minnesota United,2024,"MLS, Playoffs",MLS 2024,4,4
+12467664,Racing de Ferrol,Tenerife,24/25,LaLiga 2,LaLiga 2 24/25,2,2
+12527741,Bari,Carrarese,24/25,Serie B,Serie B 24/25,0,0
+12527866,Brescia,Spezia,24/25,Serie B,Serie B 24/25,2,2
+12527868,Juve Stabia,Sassuolo,24/25,Serie B,Serie B 24/25,3,3
+12527870,Modena,Cremonese,24/25,Serie B,Serie B 24/25,3,3
+12527872,Reggiana,Cosenza,24/25,Serie B,Serie B 24/25,0,0
+12527873,Salernitana,Cesena,24/25,Serie B,Serie B 24/25,1,1
+12451237,Amiens SC,Paris FC,24/25,Ligue 2,Ligue 2 24/25,0,0
+12451239,Bastia,Rodez AF,24/25,Ligue 2,Ligue 2 24/25,2,2
+12451236,FC Martigues,Caen,24/25,Ligue 2,Ligue 2 24/25,0,0
+12451241,Grenoble Foot 38,Annecy FC,24/25,Ligue 2,Ligue 2 24/25,0,0
+12451240,Guingamp,Ajaccio,24/25,Ligue 2,Ligue 2 24/25,2,2
+12451242,Lorient,Dunkerque,24/25,Ligue 2,Ligue 2 24/25,4,4
+12451244,Red Star FC,Metz,24/25,Ligue 2,Ligue 2 24/25,2,2
+12451245,Stade Lavallois,Clermont Foot,24/25,Ligue 2,Ligue 2 24/25,2,2
+12615585,Troyes,Pau FC,24/25,Ligue 2,Ligue 2 24/25,4,4
+12146528,Coritiba,CRB,2024,Brasileirão Série B,Brasileiro Serie B 2024,3,3
+12146523,Ituano,Santos,2024,Brasileirão Série B,Brasileiro Serie B 2024,0,0
+12146524,América Mineiro,Sport Recife,2024,Brasileirão Série B,Brasileiro Serie B 2024,3,3
+12146527,Brusque,Chapecoense,2024,Brasileirão Série B,Brasileiro Serie B 2024,0,0
+12146520,Goiás,Operário-PR,2024,Brasileirão Série B,Brasileiro Serie B 2024,4,4
+12988222,Amazonas FC,Botafogo-SP,2024,Brasileirão Série B,Brasileiro Serie B 2024,0,0
+12146521,Guarani,Novorizontino,2024,Brasileirão Série B,Brasileiro Serie B 2024,0,0
+12596617,Manisa FK,Esenler Erokspor,24/25,1. Lig,1. Lig 24/25,1,1
+12463967,Beitar Jerusalem,Maccabi Tel Aviv,24/25,Premier League,Premier League 24/25,3,3
+12463970,Maccabi Netanya,Hapoel Haifa,24/25,Premier League,Premier League 24/25,0,0
+13012918,Maccabi Haifa,Hapoel Hadera,24/25,Premier League,Premier League 24/25,4,4
+13011721,Independiente Medellín,Jaguares de Córdoba,2024,"Primera A, Clausura","Primera A, Clausura 2024",5,5
+13036742,Boyacá Chicó FC,Deportivo La Equidad,2024,"Primera A, Clausura","Primera A, Clausura 2024",1,1
+13031655,Deportivo Pasto,Rionegro Águilas Doradas,2024,"Primera A, Clausura","Primera A, Clausura 2024",4,4
+13011717,Deportivo Pereira,Envigado FC,2024,"Primera A, Clausura","Primera A, Clausura 2024",3,3
+12407827,Randers FC,FC Nordsjælland,24/25,Superligaen,Superliga 24/25,4,4
+12656652,Blackpool,Wigan Athletic,24/25,League One,League One 24/25,3,3
+12902951,Lincoln City,Northampton Town,24/25,League One,League One 24/25,3,3
+13036931,Stevenage,Bolton Wanderers,24/25,League One,League One 24/25,2,2
+12769312,Stockport County,Reading,24/25,League One,League One 24/25,4,4
+12902952,Fleetwood Town,Salford City,24/25,League Two,League Two 24/25,3,3
+12991503,Guaraní,Sportivo Luqueño,2024,"Primera División, Clausura","Division de Honor, Clausura 2024",3,3
+12014195,Imbabura Sporting Club,Técnico Universitario,2024,"LigaPro Serie A, Segunda Etapa",LigaPro Primera A 2024,1,1
+13016164,Wexford FC,Athlone Town,2024,"Premier Division, Relegation/Promotion",Premier Division 2024,1,1
+13016167,University College Dublin,Bray Wanderers,2024,"Premier Division, Relegation/Promotion",Premier Division 2024,2,2
+12004432,Yokohama F. Marinos,Urawa Red Diamonds,2024,J.League,J.League 2024,0,0
+11912257,Bodø/Glimt,Rosenborg BK,2024,Eliteserien,Eliteserien 2024,2,2
+12831481,Alianza Atlético de Sullana,Los Chankas CYC,2024,"Primera Division, Clausura",Primera Division 2024,2,2
+12831498,Comerciantes Unidos,Asociación Deportiva Tarma,2024,"Primera Division, Clausura",Primera Division 2024,1,1
+12831500,Cusco FC,Club Atlético Grau,2024,"Primera Division, Clausura",Primera Division 2024,1,1
+12489714,FC Botoșani,FC Universitatea Cluj,24/25,Superliga,Superliga 24/25,1,1
+12489713,FC Farul Constanța,Universitatea Craiova,24/25,Superliga,Superliga 24/25,4,4
+11907445,Djurgårdens IF,Västerås SK,2024,Allsvenskan,Allsvenskan 2024,2,2
+11907446,Malmö FF,IFK Göteborg,2024,Allsvenskan,Allsvenskan 2024,3,3
+12440987,Yverdon-Sport FC,FC Lausanne-Sport,24/25,Super League,Super League 24/25,1,1
+12662005,AmaZulu FC,Chippa United,24/25,Premiership,Premiership 24/25,3,3
+12662007,Sekhukhune United,Richards Bay FC,24/25,Premiership,Premiership 24/25,2,2
+12662008,TS Galaxy,Orlando Pirates,24/25,Premiership,Premiership 24/25,1,1
+12453112,Krylya Sovetov Samara,FK Krasnodar,24/25,Premier League,Premier League 24/25,2,2
+12504046,Accrington Stanley,Everton U21,24/25,"EFL Trophy, Northern Group A",EFL Trophy 24/25,3,3
+12503884,Barnsley,Doncaster Rovers,24/25,"EFL Trophy, Northern Group F",EFL Trophy 24/25,2,2
+13037267,Grimsby Town,Manchester City U21,24/25,"EFL Trophy, Northern Group G",EFL Trophy 24/25,6,6
+12503862,Mansfield Town,Newcastle United U21,24/25,"EFL Trophy, Northern Group H",EFL Trophy 24/25,3,3
+12503971,Birmingham City,Fulham U21,24/25,"EFL Trophy, Southern Group A",EFL Trophy 24/25,7,7
+12503855,AFC Wimbledon,Brighton & Hove Albion U21,24/25,"EFL Trophy, Southern Group B",EFL Trophy 24/25,1,1
+12680611,Charlton Athletic,Chelsea U21,24/25,"EFL Trophy, Southern Group C",EFL Trophy 24/25,3,3
+12503937,Bristol Rovers,Exeter City,24/25,"EFL Trophy, Southern Group G",EFL Trophy 24/25,3,3
+12503820,Cheltenham Town,West Ham U21,24/25,"EFL Trophy, Southern Group H",EFL Trophy 24/25,3,3
+12868906,NK Mladost Ždralovi,HNK Hajduk Split,24/25,Croatia Cup,Croatian Cup 24/25,1,1
+12868899,NK Rudeš,NK Istra 1961,24/25,Croatia Cup,Croatian Cup 24/25,2,2
+12065761,Busan I Park,Cheongju FC,2024,K-League 2,K-League 2 2024,0,0
+12065762,Cheonan City FC,Bucheon FC 1995,2024,K-League 2,K-League 2 2024,2,2
+12065760,FC Anyang,Jeonnam Dragons,2024,K-League 2,K-League 2 2024,2,2
+12065773,Ansan Greeners FC,Gyeongnam FC,2024,K-League 2,K-League 2 2024,1,1
+12065763,Seoul E-Land FC,Seongnam FC,2024,K-League 2,K-League 2 2024,2,2
+12065767,Suwon Samsung Bluewings,Chungnam Asan FC,2024,K-League 2,K-League 2 2024,2,2
+12735448,DAC 1904,FK Železiarne Podbrezová,24/25,Niké Liga,Superliga 24/25,3,3
+12610363,MŠK Žilina,MFK Ružomberok,24/25,Niké Liga,Superliga 24/25,3,3
+12940698,Port FC,Lion City Sailors,24/25,"AFC Champions League Two, Group F",AFC Champions League Two 24/25,2,2
+12736354,FK Abdysh-Ata Kant,Arkadag FK,24/25,"AFC Challenge League, Group B",AFC Challenge League 24/25,0,0
+12736353,Maziya Sports and Recreation Club,Al-Arabi Kuwait,24/25,"AFC Challenge League, Group B",AFC Challenge League 24/25,1,1
+12736363,Hilal Al-Quds,Al-Fotuwa,24/25,"AFC Challenge League, Group C",AFC Challenge League 24/25,1,1
+12733158,Al Seeb,Al-Ahli Club,24/25,"AFC Challenge League, Group C",AFC Challenge League 24/25,2,2
+12736357,Taiwan Steel,Young Elephants FC,24/25,"AFC Challenge League, Group D",AFC Challenge League 24/25,4,4
+12736372,Paro FC,Nejmeh SC,24/25,"AFC Challenge League, Group A",AFC Challenge League 24/25,1,1
+12736367,Bashundhara Kings,East Bengal FC,24/25,"AFC Challenge League, Group A",AFC Challenge League 24/25,0,0
+12736365,Svay Rieng FC,SP Falcons FC,24/25,"AFC Challenge League, Group E",AFC Challenge League 24/25,2,2
+12903507,SC Austria Lustenau,TSV Hartberg,24/25,OFB Cup,OFB Cup 24/25,1,1
+12868606,Floridsdorfer AC,FC Liefering,24/25,2. Liga,2. Liga 24/25,0,0
+12792337,Manama Club,Al Riffa,24/25,Premier League,Premier League 24/25,1,1
+12382874,Dinamo Minsk,FK Arsenal Dzerzhinsk,2024,Vysshaya League,Vysshaya Liga 2024,2,2
+12856768,KVC Westerlo,RWD Molenbeek,24/25,Beker van Belgie,Beker van Belgie 24/25,3,3
+12856757,Patro Eisden Maasmechelen,RC Sporting Charleroi,24/25,Beker van Belgie,Beker van Belgie 24/25,5,5
+12856755,SV Zulte Waregem,FCV Dender,24/25,Beker van Belgie,Beker van Belgie 24/25,2,2
+12753012,Oriente Petrolero,San Antonio Bulo-Bulo,2024,"Division Profesional, Clausura",División Profesional 2024,1,1
+12753024,CD Real Santa Cruz,FC Universitario de Vinto,2024,"Division Profesional, Clausura",División Profesional 2024,1,1
+12753036,The Strongest,GV San José de Oruro,2024,"Division Profesional, Clausura",División Profesional 2024,4,4
+13019043,NK Široki Brijeg,FK Borac Banja Luka,24/25,Premier League BiH,Premier League BiH 24/25,2,2
+12425088,Ludogorets,FC CSKA 1948 Sofia,24/25,Parva Liga,Parva Liga 24/25,4,4
+12984550,FC Rozova Dolina Kazanlak,Arda Kardzhali,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984527,FC Sayana Haskovo,FK Spartak Varna,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984538,FK Dobrudzha Dobrich,CSKA Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984525,FK Sportist Svoge,Botev Vratsa,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984547,FK Yantra Gabrovo,Lokomotiv Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984554,OFC Lokomotiv Mezdra,FK Septemvri Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,3,3
+12984548,PFK Montana 1921,Slavia Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984536,FC Kyustendil Kyustendil,Cherno More Varna,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984535,FC Oborishte Panagyurishte,FK Krumovgrad,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+13008779,Colo Colo,Deportes Magallanes,2024,Copa Chile,Copa Chile 2024,0,0
+13019046,Ñublense,Deportes Puerto Montt,2024,Copa Chile,Copa Chile 2024,6,6
+13029521,Cúcuta Deportivo,Atlético Huila,2024,"Primera B, Clausura, Promotion, Group A",Primera B 2024,2,2
+13041742,Real Cundinamarca,Unión Magdalena,2024,"Primera B, Clausura, Promotion, Group A",Primera B 2024,2,2
+12497319,ALS Omonia,Pafos FC,24/25,1st Division,1st Division 24/25,1,1
+12497311,Karmiotissa Polemidion,Omonia Nicosia,24/25,1st Division,1st Division 24/25,2,2
+12497305,APOEL Nicosia,Anorthosis Famagusta,24/25,1st Division,1st Division 24/25,3,3
+12952010,MFK Vyškov,Bohemians Praha 1905,24/25,Cup,Cup 24/25,1,1
+12952006,FK Varnsdorf,Baník Ostrava,24/25,Cup,Cup 24/25,1,1
+12951999,Loko Vltavín,FC Hradec Králové,24/25,Cup,Cup 24/25,0,0
+12952001,SK Hanácká Slavia Kroměříž,1. FC Slovácko,24/25,Cup,Cup 24/25,4,4
+12952008,SK Líšeň,FK Teplice,24/25,Cup,Cup 24/25,1,1
+12952000,SK Zápy,FK Pardubice,24/25,Cup,Cup 24/25,2,2
+12952011,Slezský FC Opava,FC Zlín,24/25,Cup,Cup 24/25,1,1
+12952002,Spartak Police Nad Metuji,Mladá Boleslav,24/25,Cup,Cup 24/25,2,2
+12934744,Frem,Kolding IF,24/25,Oddset Pokalen,DBU Pokalen 24/25,0,0
+12934745,Holbæk B&I,Silkeborg IF,24/25,Oddset Pokalen,DBU Pokalen 24/25,0,0
+12587009,Czechia,Belarus,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",0,0
+12588494,Ukraine,Türkiye,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",2,2
+12588498,Finland,Montenegro,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",6,6
+12588501,Austria,Slovenia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",2,2
+12588499,Poland,Romania,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+12588502,Norway,Albania,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",9,9
+12588497,Serbia,Bosnia & Herzegovina,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+12588500,Sweden,Luxembourg,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",8,8
+12586998,Northern Ireland,Croatia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",2,2
+12588493,Belgium,Greece,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",5,5
+12586996,Wales,Slovakia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",3,3
+12588496,Ireland,Georgia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",3,3
+12586997,Scotland,Hungary,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+12588495,Portugal,Azerbaijan,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",5,5
+11989123,FC Telavi,FC Dila Gori,2024,Erovnuli Liga,Erovnuli Liga 2024,1,1
+11989126,FC Torpedo Kutaisi,Dinamo Tbilisi,2024,Erovnuli Liga,Erovnuli Liga 2024,2,2
+13005881,FC St Pauli II U23,VfB Lübeck,24/25,Regionalliga North,Regionalliga North 24/25,1,1
+12872911,KFC Uerdingen 05,Fortuna Düsseldorf II U23,24/25,Regionalliga West,Regionalliga West 24/25,1,1
+12457088,Bayern München II,SpVgg Greuther Fürth II,24/25,Regionalliga Bavaria,Regionalliga Bavaria 24/25,4,4
+12819290,Kampaniakos,AO Kavala,24/25,"Super League 2, Group A",Super League 2 24/25,3,3
+12819289,AE Larisa,AS Makedonikos Neapolis,24/25,"Super League 2, Group A",Super League 2 24/25,3,3
+12930484,A.E. Kifisia FC,GE Panachaiki,24/25,Greek Cup Betsson,Greece Cup 24/25,2,2
+12930481,Panserraikos,GSS Panionios,24/25,Greek Cup Betsson,Greece Cup 24/25,2,2
+12930474,AO Egaleo,PAOK,24/25,Greek Cup Betsson,Greece Cup 24/25,1,1
+12651004,Persik Kediri,Persib Bandung,24/25,Liga 1,Liga 1 24/25,1,1
+13041817,Naft Al-Basra SC,Al Karma SC,24/25,Stars League,24/25,1,1
+13043047,Newroz SC,Al Talaba,24/25,Stars League,24/25,1,1
+13043049,Naft Missan,Karbalaa FC,24/25,Stars League,24/25,0,0
+13043050,Al Mina'a,Al-Zawraa,24/25,Stars League,24/25,2,2
+12545898,Arzignano Valchiampo,Aurora Pro Patria,24/25,"Serie C, Girone A","Serie C, Group A 24/25",2,2
+12545894,Atalanta U23,Pro Vercelli,24/25,"Serie C, Girone A","Serie C, Group A 24/25",2,2
+12545892,Caldiero Terme,Giana Erminio,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545889,Trento,Virtus Verona,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545896,Lumezzane,Pergolettese,24/25,"Serie C, Girone A","Serie C, Group A 24/25",0,0
+12545891,Novara,L.R. Vicenza,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545537,SPAL,Pianese,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12545539,Sestri Levante,Ternana,24/25,"Serie C, Girone B","Serie C, Group B 24/25",0,0
+12545543,Carpi,Arezzo,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12545541,Gubbio,Vis Pesaro,24/25,"Serie C, Girone B","Serie C, Group B 24/25",1,1
+12545542,Rimini,Legnago Salus,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12598355,Fiorentina U20,Milan U20,24/25,Primavera 1,Primavera 1 24/25,2,2
+12085469,FK Metta,RFS,2024,Virsliga,Virsliga 2024,1,1
+12963291,Sabah FC,Kedah,2024,Super League,Super League 2024,5,5
+13023452,Dorados de Sinaloa,Cancún FC,2024,"Liga de Expansion MX, Apertura","Liga de Expansion MX, Apertura 2024",5,5
+12621705,FK Sileks Kratovo,FK Rabotnički Skopje,24/25,1. MFL,1. MFL 24/25,1,1
+12621704,FK Vardar Skopje,AP Brera Strumica,24/25,1. MFL,1. MFL 24/25,0,0
+12621707,KF Gostivar,FK Pelister Bitola,24/25,1. MFL,1. MFL 24/25,1,1
+12621702,KF Shkëndija,Besa 1976,24/25,1. MFL,1. MFL 24/25,2,2
+12621701,Tikveš Kavadarci,FC Struga Trim & Lum,24/25,1. MFL,1. MFL 24/25,1,1
+12621709,Voska Sport,KF Shkupi,24/25,1. MFL,1. MFL 24/25,3,3
+12448840,GKS Tychy,Znicz Pruszków,24/25,I liga,I Liga 24/25,2,2
+12932081,Avia Świdnik,Ruch Chorzów,24/25,Puchar Polski,Puchar Polski 24/25,2,2
+12932076,OKS Odra Opole,Pogoń Szczecin,24/25,Puchar Polski,Puchar Polski 24/25,0,0
+12932066,Kotwica Kołobrzeg,Puszcza Niepołomice,24/25,Puchar Polski,Puchar Polski 24/25,0,0
+12932068,Olimpia Grudziądz,Resovia Rzeszów,24/25,Puchar Polski,Puchar Polski 24/25,3,3
+12932085,Radomiak Radom,Śląsk Wrocław,24/25,Puchar Polski,Puchar Polski 24/25,1,1
+12932075,Lech Poznań II,MKS Korona Kielce,24/25,Puchar Polski,Puchar Polski 24/25,1,1
+12932072,Sandecja Nowy Sącz,Pogoń Grodzisk Mazowiecki,24/25,Puchar Polski,Puchar Polski 24/25,2,2
+12518416,CD Mafra,União Leiria,24/25,Liga Portugal 2,Liga Portugal 2 24/25,3,3
+12522419,Sporting,CD Nacional,24/25,"League Cup, Final round",League Cup 24/25,3,3
+13019039,Al Riyadh,Al-Shabab,24/25,King's Cup,Kings Cup 24/25,0,0
+12923109,Al-Ittihad,Al Jandal,24/25,King's Cup,Kings Cup 24/25,3,3
+12923104,Al-Wehda,Al-Qadisiyah,24/25,King's Cup,Kings Cup 24/25,2,2
+12923103,Al-Najma SC,Al-Raed,24/25,King's Cup,Kings Cup 24/25,0,0
+12923107,Al Tai,Al-Hilal,24/25,King's Cup,Kings Cup 24/25,2,2
+12923108,Al-Fayha,AL Arabi (SA),24/25,King's Cup,Kings Cup 24/25,2,2
+12923105,Al-Nassr,Al-Taawoun,24/25,King's Cup,Kings Cup 24/25,0,0
+12473120,Dunfermline Athletic,Livingston,24/25,Championship,Championship 24/25,3,3
+12473122,Greenock Morton,Queen's Park FC,24/25,Championship,Championship 24/25,0,0
+12473125,Raith Rovers,Airdrieonians,24/25,Championship,Championship 24/25,1,1
+12246985,Albirex Niigata Singapore,Hougang United,2024,Premier League,Premier League 2024,2,2
+12246979,Geylang International,Tampines Rovers,2024,Premier League,Premier League 2024,1,1
+12929943,Kalcer Radomlje,NK Olimpija Ljubljana,24/25,Slovenia Cup,Slovenia Cup 24/25,2,2
+12929932,ND Bilje,FC Koper,24/25,Slovenia Cup,Slovenia Cup 24/25,2,2
+12929942,NK Hodoš,NK Celje,24/25,Slovenia Cup,Slovenia Cup 24/25,0,0
+12929933,NK Rače,NK Brežice 1919,24/25,Slovenia Cup,Slovenia Cup 24/25,4,4
+12929944,NK Tolmin,NK Bravo,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12929945,ŠD Preddvor,NK Maribor,24/25,Slovenia Cup,Slovenia Cup 24/25,2,2
+12199061,IK Oddevold,Skövde AIK,2024,Superettan,Superettan 2024,2,2
+12989310,Bornova 1877,Fethiyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12989317,Etimesgut Belediyespor,Mardin 1969 Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989297,Sarıyer,Niğde Belediyesi Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989318,Fatih Karagümrük,Tokat Belediye Plevne Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989312,Adanaspor,Çorluspor 1947,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989304,Ağrı 1970 SK,Beyoğlu Yeni Çarşı FAŞ,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12989285,Muş 1984 Muşspor,İnegölspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989298,Silivrispor,Kayserispor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,4,4
+12989306,Aliağa FK,Anadolu Üniversitesi,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989307,Ankara Demirspor,Erciyes 38 FSK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989309,Belediye Derincespor,Tire FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989316,Ergene Velimeşe Spor,Sebat Gençlik Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989319,Fatsa Belediyespor,Karaman FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989288,Karacabey Belediye Spor,Amasyaspor FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,4,4
+12989289,Karşıyaka,Viranşehir Belediye Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,6,6
+12989293,Kuşadasıspor,Karaköprü Belediyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989290,Küçükçekmece Sinop Spor,Erbaaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989292,Kırıkkale FK,Yeni Malatyaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989295,Osmaniyespor FK,Serik Belediyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,6,6
+12989299,Somaspor,Belediye Kütahyaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989286,İnegöl Kafkas Gençlikspor,Hatayspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12767356,Rukh Lviv,Karpaty Lviv,24/25,Ukraine Cup,Ukraine Cup 24/25,2,2
+12767360,Probiy Horodenka,Bukovyna Chernivtsi,24/25,Ukraine Cup,Ukraine Cup 24/25,0,0
+12767375,UCSA Kyiv,Oleksandria,24/25,Ukraine Cup,Ukraine Cup 24/25,1,1
+12767362,Polissya Zhytomyr,FC Kryvbas Kryvyi Rih,24/25,Ukraine Cup,Ukraine Cup 24/25,2,2
+12767354,Vorskla Poltava,Dynamo Kyiv,24/25,Ukraine Cup,Ukraine Cup 24/25,2,2
+13014313,Rayo Zuliano,Zamora,2024,"Primera Division, Clausura, Main Round, Group A",Primera Division 2024,3,3
+13014305,Deportivo Táchira,Caracas F.C.,2024,"Primera Division, Clausura, Main Round, Group A",Primera Division 2024,2,2
+13031241,North Macedonia,Moldova,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,1,1
+13023005,Ecuador,Chile,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,1,1
+13006575,Germany,Australia,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13038432,Russia,Haiti,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13005422,Denmark,Netherlands,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13005420,Italy,Spain,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13019381,Morocco,Senegal,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,7,7
+13006576,England,South Africa,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,3,3
+13005427,Switzerland,France,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,3,3
+13045718,Brazil,Colombia,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,3,3
+13009004,Mexico,Thailand,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,5,5
+12499348,Cagliari,Bologna,24/25,Serie A,Serie A 24/25,0,0
+12499354,Lecce,Hellas Verona,24/25,Serie A,Serie A 24/25,1,1
+12499355,Milan,Napoli,24/25,Serie A,Serie A 24/25,1,1
+12499350,Empoli,Inter,24/25,Serie A,Serie A 24/25,1,1
+12499357,Venezia,Udinese,24/25,Serie A,Serie A 24/25,4,4
+12499347,Atalanta,Monza,24/25,Serie A,Serie A 24/25,2,2
+12499353,Juventus,Parma,24/25,Serie A,Serie A 24/25,3,3
+12900855,Al Ahly FC,Al-Ain,2024,FIFA Intercontinental Cup,FIFA Intercontinental Cup 2024,4,4
+12970179,CD Villamuriel,Rayo Vallecano,24/25,Copa del Rey,Copa del Rey 24/25,0,0
+12970160,SD Compostela,Deportivo Alavés,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970153,Astur CF,Real Valladolid,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12970192,CE L’Hospitalet,Real Zaragoza,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970193,Real Jaén,Cádiz,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970166,UD Lanzarote,Racing de Santander,24/25,Copa del Rey,Copa del Rey 24/25,4,4
+12970187,UD Poblense,Villarreal,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12970142,CE Europa,Albacete Balompié,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12970163,CD Ciudad de Lucena,Leganés,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12970188,Las Rozas CF,Sevilla,24/25,Copa del Rey,Copa del Rey 24/25,0,0
+12970174,UE Olot,Córdoba,24/25,Copa del Rey,Copa del Rey 24/25,5,5
+12970139,CF Badalona Futur,Huesca,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970147,CP Cacereño,Gimnástica Segoviana,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12970161,CD Extremadura,Girona FC,24/25,Copa del Rey,Copa del Rey 24/25,1,1
+12970156,UD San Pedro,Celta Vigo,24/25,Copa del Rey,Copa del Rey 24/25,2,2
+12375376,River Plate,Atlético Mineiro,2024,"Copa Libertadores, Knockout stage",Copa Libertadores 2024,0,0
+12375375,Peñarol,Botafogo,2024,"Copa Libertadores, Knockout stage",Copa Libertadores 2024,3,3
+12378099,Lanús,Cruzeiro,2024,"Copa Sudamericana, Knockout stage",Copa Sudamericana 2024,1,1
+12774386,Feyenoord,Ajax,24/25,Eredivisie,Eredivisie 24/25,0,0
+12946553,Internacional,Flamengo,2024,Brasileirão Série A,Brasileiro Serie A 2024,2,2
+12477076,Celtic,Dundee FC,24/25,Premiership,Premiership 24/25,2,2
+12477077,Dundee United,Motherwell,24/25,Premiership,Premiership 24/25,1,1
+12477074,Heart of Midlothian,Kilmarnock,24/25,Premiership,Premiership 24/25,2,2
+12477073,Ross County,Hibernian,24/25,Premiership,Premiership 24/25,1,1
+12477071,St. Mirren,St. Johnstone,24/25,Premiership,Premiership 24/25,4,4
+12477075,Aberdeen,Rangers,24/25,Premiership,Premiership 24/25,3,3
+12904468,Southampton,Stoke City,24/25,EFL Cup,EFL Cup 24/25,4,4
+12904463,Brentford,Sheffield Wednesday,24/25,EFL Cup,EFL Cup 24/25,6,6
+12904464,Brighton & Hove Albion,Liverpool,24/25,EFL Cup,EFL Cup 24/25,3,3
+12904462,Aston Villa,Crystal Palace,24/25,EFL Cup,EFL Cup 24/25,2,2
+12904466,Manchester United,Leicester City,24/25,EFL Cup,EFL Cup 24/25,6,6
+12928319,Newcastle United,Chelsea,24/25,EFL Cup,EFL Cup 24/25,2,2
+12904467,Preston North End,Arsenal,24/25,EFL Cup,EFL Cup 24/25,0,0
+12904469,Tottenham Hotspur,Manchester City,24/25,EFL Cup,EFL Cup 24/25,3,3
+12773665,Bayer 04 Leverkusen,SV 07 Elversberg,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773646,FC Augsburg,FC Schalke 04,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773642,Kickers Offenbach,Karlsruher SC,24/25,DFB Pokal,DFB Pokal 24/25,0,0
+12791854,RB Leipzig,FC St. Pauli,24/25,DFB Pokal,DFB Pokal 24/25,5,5
+12773671,1. FC Köln,Holstein Kiel,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12791853,SSV Jahn Regensburg,SpVgg Greuther Fürth,24/25,DFB Pokal,DFB Pokal 24/25,1,1
+12773663,VfB Stuttgart,1. FC Kaiserslautern,24/25,DFB Pokal,DFB Pokal 24/25,2,2
+12773652,VfL Wolfsburg,Borussia Dortmund,24/25,DFB Pokal,DFB Pokal 24/25,1,1
+12773674,Eintracht Frankfurt,Borussia M'gladbach,24/25,DFB Pokal,DFB Pokal 24/25,2,2
+12773668,Hertha BSC,1. FC Heidenheim,24/25,DFB Pokal,DFB Pokal 24/25,2,2
+12773662,SC Freiburg,Hamburger SV,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773670,SC Paderborn 07,SV Werder Bremen,24/25,DFB Pokal,DFB Pokal 24/25,0,0
+12773643,1. FSV Mainz 05,FC Bayern München,24/25,DFB Pokal,DFB Pokal 24/25,0,0
+12773661,Arminia Bielefeld,1. FC Union Berlin,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773672,SG Dynamo Dresden,Darmstadt 98,24/25,DFB Pokal,DFB Pokal 24/25,3,3
+12773664,TSG Hoffenheim,1. FC Nürnberg,24/25,DFB Pokal,DFB Pokal 24/25,2,2
+12924425,NEC Nijmegen,PEC Zwolle,24/25,KNVB beker,KNVB beker 24/25,4,4
+12924407,ADO Den Haag,SC Cambuur,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924421,De Graafschap,TOP Oss,24/25,KNVB beker,KNVB beker 24/25,4,4
+12924416,De Treffers,Fortuna Sittard,24/25,KNVB beker,KNVB beker 24/25,1,1
+12924418,Excelsior,VVV-Venlo,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924429,FC Rijnvogels,FC Eindhoven,24/25,KNVB beker,KNVB beker 24/25,0,0
+12924410,Kolping Boys,FC Groningen,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924422,Sparta Nijkerk,VV Capelle,24/25,KNVB beker,KNVB beker 24/25,5,5
+12924424,VV IJsselmeervogels,SC Heerenveen,24/25,KNVB beker,KNVB beker 24/25,3,3
+12924420,vv Noordwijk,FC Dordrecht,24/25,KNVB beker,KNVB beker 24/25,3,3
+12924411,BVV Barendrecht,NAC Breda,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924408,Amsterdamsche FC,Blauw Geel '38,24/25,KNVB beker,KNVB beker 24/25,3,3
+12924419,FC Winterswijk,Heracles Almelo,24/25,KNVB beker,KNVB beker 24/25,0,0
+12924428,MVV Maastricht,FC Den Bosch,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924430,Quick Boys,Almere City FC,24/25,KNVB beker,KNVB beker 24/25,4,4
+12924409,RKC Waalwijk,Vitesse,24/25,KNVB beker,KNVB beker 24/25,3,3
+12924431,Rijnsburgse Boys,Roda JC Kerkrade,24/25,KNVB beker,KNVB beker 24/25,4,4
+12924412,SC Genemuiden,Willem II Tilburg,24/25,KNVB beker,KNVB beker 24/25,2,2
+12924414,VV Eemdijk,OJC Rosmalen,24/25,KNVB beker,KNVB beker 24/25,2,2
+13010881,Columbus Crew,New York Red Bulls,2024,"MLS, Playoffs",MLS 2024,0,0
+13010887,Real Salt Lake,Minnesota United,2024,"MLS, Playoffs",MLS 2024,5,5
+12527741,Bari,Carrarese,24/25,Serie B,Serie B 24/25,1,1
+12527866,Brescia,Spezia,24/25,Serie B,Serie B 24/25,2,2
+12527868,Juve Stabia,Sassuolo,24/25,Serie B,Serie B 24/25,2,2
+12527870,Modena,Cremonese,24/25,Serie B,Serie B 24/25,2,2
+12527872,Reggiana,Cosenza,24/25,Serie B,Serie B 24/25,1,1
+12527873,Salernitana,Cesena,24/25,Serie B,Serie B 24/25,2,2
+12527874,Südtirol,Frosinone,24/25,Serie B,Serie B 24/25,1,1
+12527867,Cittadella,U.C Sampdoria,24/25,Serie B,Serie B 24/25,0,0
+12527869,Mantova,Palermo,24/25,Serie B,Serie B 24/25,0,0
+12527871,Pisa,Catanzaro,24/25,Serie B,Serie B 24/25,1,1
+12451237,Amiens SC,Paris FC,24/25,Ligue 2,Ligue 2 24/25,0,0
+12451239,Bastia,Rodez AF,24/25,Ligue 2,Ligue 2 24/25,2,2
+12451236,FC Martigues,Caen,24/25,Ligue 2,Ligue 2 24/25,0,0
+12451241,Grenoble Foot 38,Annecy FC,24/25,Ligue 2,Ligue 2 24/25,0,0
+12451240,Guingamp,Ajaccio,24/25,Ligue 2,Ligue 2 24/25,2,2
+12451242,Lorient,Dunkerque,24/25,Ligue 2,Ligue 2 24/25,5,5
+12451244,Red Star FC,Metz,24/25,Ligue 2,Ligue 2 24/25,2,2
+12451245,Stade Lavallois,Clermont Foot,24/25,Ligue 2,Ligue 2 24/25,1,1
+12615585,Troyes,Pau FC,24/25,Ligue 2,Ligue 2 24/25,3,3
+12146527,Brusque,Chapecoense,2024,Brasileirão Série B,Brasileiro Serie B 2024,1,1
+12146520,Goiás,Operário-PR,2024,Brasileirão Série B,Brasileiro Serie B 2024,4,4
+12988222,Amazonas FC,Botafogo-SP,2024,Brasileirão Série B,Brasileiro Serie B 2024,0,0
+12146521,Guarani,Novorizontino,2024,Brasileirão Série B,Brasileiro Serie B 2024,0,0
+13036742,Boyacá Chicó FC,Deportivo La Equidad,2024,"Primera A, Clausura","Primera A, Clausura 2024",2,2
+13031655,Deportivo Pasto,Rionegro Águilas Doradas,2024,"Primera A, Clausura","Primera A, Clausura 2024",4,4
+13011717,Deportivo Pereira,Envigado FC,2024,"Primera A, Clausura","Primera A, Clausura 2024",2,2
+12902951,Lincoln City,Northampton Town,24/25,League One,League One 24/25,2,2
+13036931,Stevenage,Bolton Wanderers,24/25,League One,League One 24/25,1,1
+12769312,Stockport County,Reading,24/25,League One,League One 24/25,5,5
+12902952,Fleetwood Town,Salford City,24/25,League Two,League Two 24/25,3,3
+13015430,Haras El Hedoud,Smouha,24/25,Premier League,Premier League 24/25,2,2
+13015432,Tala'ea El-Gaish,Al-Masry,24/25,Premier League,Premier League 24/25,0,0
+12744969,Hyderabad FC,Mohun Bagan Super Giant,24/25,Super League,Indian Super League 24/25,0,0
+12004432,Yokohama F. Marinos,Urawa Red Diamonds,2024,J.League,J.League 2024,0,0
+12440987,Yverdon-Sport FC,FC Lausanne-Sport,24/25,Super League,Super League 24/25,0,0
+12439866,FC Sion,FC Zürich,24/25,Super League,Super League 24/25,0,0
+12440995,FC St. Gallen 1879,FC Winterthur,24/25,Super League,Super League 24/25,3,3
+12440988,Young Boys,Basel,24/25,Super League,Super League 24/25,4,4
+12662005,AmaZulu FC,Chippa United,24/25,Premiership,Premiership 24/25,2,2
+12662007,Sekhukhune United,Richards Bay FC,24/25,Premiership,Premiership 24/25,3,3
+12662008,TS Galaxy,Orlando Pirates,24/25,Premiership,Premiership 24/25,1,1
+12662009,Lamontville Golden Arrows,Supersport United,24/25,Premiership,Premiership 24/25,0,0
+12662004,Magesi FC,Kaizer Chiefs,24/25,Premiership,Premiership 24/25,3,3
+12662002,Mamelodi Sundowns,Cape Town City FC,24/25,Premiership,Premiership 24/25,3,3
+12661999,Royal AM,Polokwane City,24/25,Premiership,Premiership 24/25,1,1
+12504046,Accrington Stanley,Everton U21,24/25,"EFL Trophy, Northern Group A",EFL Trophy 24/25,3,3
+12503884,Barnsley,Doncaster Rovers,24/25,"EFL Trophy, Northern Group F",EFL Trophy 24/25,2,2
+13037267,Grimsby Town,Manchester City U21,24/25,"EFL Trophy, Northern Group G",EFL Trophy 24/25,5,5
+12503862,Mansfield Town,Newcastle United U21,24/25,"EFL Trophy, Northern Group H",EFL Trophy 24/25,4,4
+12503971,Birmingham City,Fulham U21,24/25,"EFL Trophy, Southern Group A",EFL Trophy 24/25,8,8
+12503855,AFC Wimbledon,Brighton & Hove Albion U21,24/25,"EFL Trophy, Southern Group B",EFL Trophy 24/25,0,0
+12680611,Charlton Athletic,Chelsea U21,24/25,"EFL Trophy, Southern Group C",EFL Trophy 24/25,3,3
+12503937,Bristol Rovers,Exeter City,24/25,"EFL Trophy, Southern Group G",EFL Trophy 24/25,2,2
+12503820,Cheltenham Town,West Ham U21,24/25,"EFL Trophy, Southern Group H",EFL Trophy 24/25,3,3
+12868906,NK Mladost Ždralovi,HNK Hajduk Split,24/25,Croatia Cup,Croatian Cup 24/25,0,0
+12868899,NK Rudeš,NK Istra 1961,24/25,Croatia Cup,Croatian Cup 24/25,1,1
+12065773,Ansan Greeners FC,Gyeongnam FC,2024,K-League 2,K-League 2 2024,2,2
+12065763,Seoul E-Land FC,Seongnam FC,2024,K-League 2,K-League 2 2024,2,2
+12065767,Suwon Samsung Bluewings,Chungnam Asan FC,2024,K-League 2,K-League 2 2024,2,2
+12961015,Baniyas,Al-Sharjah,24/25,Pro League,Arabian Gulf League 24/25,1,1
+12735448,DAC 1904,FK Železiarne Podbrezová,24/25,Niké Liga,Superliga 24/25,3,3
+12610363,MŠK Žilina,MFK Ružomberok,24/25,Niké Liga,Superliga 24/25,4,4
+12661036,MFK Skalica,ŠK Slovan Bratislava,24/25,Niké Liga,Superliga 24/25,2,2
+12661039,FC Spartak Trnava,KFC Komárno,24/25,Niké Liga,Superliga 24/25,3,3
+12940698,Port FC,Lion City Sailors,24/25,"AFC Champions League Two, Group F",AFC Champions League Two 24/25,2,2
+12736354,FK Abdysh-Ata Kant,Arkadag FK,24/25,"AFC Challenge League, Group B",AFC Challenge League 24/25,0,0
+12736353,Maziya Sports and Recreation Club,Al-Arabi Kuwait,24/25,"AFC Challenge League, Group B",AFC Challenge League 24/25,1,1
+12736363,Hilal Al-Quds,Al-Fotuwa,24/25,"AFC Challenge League, Group C",AFC Challenge League 24/25,1,1
+12733158,Al Seeb,Al-Ahli Club,24/25,"AFC Challenge League, Group C",AFC Challenge League 24/25,2,2
+12736357,Taiwan Steel,Young Elephants FC,24/25,"AFC Challenge League, Group D",AFC Challenge League 24/25,4,4
+12736367,Bashundhara Kings,East Bengal FC,24/25,"AFC Challenge League, Group A",AFC Challenge League 24/25,1,1
+12736365,Svay Rieng FC,SP Falcons FC,24/25,"AFC Challenge League, Group E",AFC Challenge League 24/25,2,2
+12903507,SC Austria Lustenau,TSV Hartberg,24/25,OFB Cup,OFB Cup 24/25,1,1
+12903499,ASK Voitsberg,LASK,24/25,OFB Cup,OFB Cup 24/25,2,2
+12903503,SV Horn,Austria Wien,24/25,OFB Cup,OFB Cup 24/25,0,0
+12903501,SV Stripfing,SK Rapid Wien,24/25,OFB Cup,OFB Cup 24/25,2,2
+12903502,Schwarz-Weiß Bregenz,Grazer AK 1902,24/25,OFB Cup,OFB Cup 24/25,3,3
+12903504,Red Bull Salzburg,WSG Tirol,24/25,OFB Cup,OFB Cup 24/25,4,4
+12903506,SK Sturm Graz,FC Blau Weiss Linz,24/25,OFB Cup,OFB Cup 24/25,2,2
+12903505,Wolfsberger AC,Austria Klagenfurt,24/25,OFB Cup,OFB Cup 24/25,11,11
+12868606,Floridsdorfer AC,FC Liefering,24/25,2. Liga,2. Liga 24/25,1,1
+12382874,Dinamo Minsk,FK Arsenal Dzerzhinsk,2024,Vysshaya League,Vysshaya Liga 2024,3,3
+12856768,KVC Westerlo,RWD Molenbeek,24/25,Beker van Belgie,Beker van Belgie 24/25,2,2
+12856757,Patro Eisden Maasmechelen,RC Sporting Charleroi,24/25,Beker van Belgie,Beker van Belgie 24/25,5,5
+12856755,SV Zulte Waregem,FCV Dender,24/25,Beker van Belgie,Beker van Belgie 24/25,2,2
+12856760,K. Beerschot V.A.,RFC Liège,24/25,Beker van Belgie,Beker van Belgie 24/25,3,3
+12856762,KAA Gent,Union Rochefortoise,24/25,Beker van Belgie,Beker van Belgie 24/25,7,7
+12856754,KAS Eupen,Royale Union Saint-Gilloise,24/25,Beker van Belgie,Beker van Belgie 24/25,0,0
+12856767,KV Kortrijk,KSC Lokeren-Temse,24/25,Beker van Belgie,Beker van Belgie 24/25,1,1
+12856763,KV Mechelen,RAAL La Louvière,24/25,Beker van Belgie,Beker van Belgie 24/25,4,4
+12856758,Oud-Heverlee Leuven,RFC Seraing,24/25,Beker van Belgie,Beker van Belgie 24/25,3,3
+12856766,SK Beveren,KRC Genk,24/25,Beker van Belgie,Beker van Belgie 24/25,1,1
+12856761,Club Brugge KV,Belisia Bilzen SV,24/25,Beker van Belgie,Beker van Belgie 24/25,7,7
+12856765,Standard Liège,K. Lyra-Lierse,24/25,Beker van Belgie,Beker van Belgie 24/25,3,3
+12856753,Koninklijke Lierse Sportkring,Sint-Truidense VV,24/25,Beker van Belgie,Beker van Belgie 24/25,1,1
+12753024,CD Real Santa Cruz,FC Universitario de Vinto,2024,"Division Profesional, Clausura",División Profesional 2024,1,1
+12753036,The Strongest,GV San José de Oruro,2024,"Division Profesional, Clausura",División Profesional 2024,4,4
+12753027,Nacional Potosí,CD Real Tomayapo,2024,"Division Profesional, Clausura",División Profesional 2024,1,1
+12753031,Club Always Ready,Bolívar,2024,"Division Profesional, Clausura",División Profesional 2024,2,2
+12753030,Blooming,Royal Pari Sion,2024,"Division Profesional, Clausura",División Profesional 2024,3,3
+12984548,PFK Montana 1921,Slavia Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984536,FC Kyustendil Kyustendil,Cherno More Varna,24/25,Bulgarian Cup,Bulgarian Cup 24/25,1,1
+12984535,FC Oborishte Panagyurishte,FK Krumovgrad,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984544,FK Dunav Ruse,FK Hebar Pazardzhik,24/25,Bulgarian Cup,Bulgarian Cup 24/25,12,12
+12984542,Pirin 22 Blagoevgrad,Levski Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984529,FC Minyor Pernik,Botev Plovdiv,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+12984533,OFK Belasitsa Petrich,FC CSKA 1948 Sofia,24/25,Bulgarian Cup,Bulgarian Cup 24/25,0,0
+13008779,Colo Colo,Deportes Magallanes,2024,Copa Chile,Copa Chile 2024,0,0
+13019046,Ñublense,Deportes Puerto Montt,2024,Copa Chile,Copa Chile 2024,6,6
+13029524,Deportes Quindío,Llaneros FC,2024,"Primera B, Clausura, Promotion, Group B",Primera B 2024,1,1
+13029522,Real Cartagena,Orsomarso,2024,"Primera B, Clausura, Promotion, Group B",Primera B 2024,3,3
+12952010,MFK Vyškov,Bohemians Praha 1905,24/25,Cup,Cup 24/25,0,0
+12952006,FK Varnsdorf,Baník Ostrava,24/25,Cup,Cup 24/25,1,1
+12951999,Loko Vltavín,FC Hradec Králové,24/25,Cup,Cup 24/25,0,0
+12952001,SK Hanácká Slavia Kroměříž,1. FC Slovácko,24/25,Cup,Cup 24/25,4,4
+12952008,SK Líšeň,FK Teplice,24/25,Cup,Cup 24/25,1,1
+12952000,SK Zápy,FK Pardubice,24/25,Cup,Cup 24/25,1,1
+12952011,Slezský FC Opava,FC Zlín,24/25,Cup,Cup 24/25,1,1
+12952002,Spartak Police Nad Metuji,Mladá Boleslav,24/25,Cup,Cup 24/25,2,2
+12952004,FK VIAGEM Ústí nad Labem,Viktoria Plzeň,24/25,Cup,Cup 24/25,4,4
+12952003,FC Hlučín,FC Slovan Liberec,24/25,Cup,Cup 24/25,1,1
+12952005,FK Viktoria Žižkov,SK Sigma Olomouc,24/25,Cup,Cup 24/25,0,0
+12952007,AC Sparta Praha,FC Zbrojovka Brno,24/25,Cup,Cup 24/25,4,4
+12951997,SK Benátky nad Jizerou,SK Slavia Praha,24/25,Cup,Cup 24/25,1,1
+12934744,Frem,Kolding IF,24/25,Oddset Pokalen,DBU Pokalen 24/25,1,1
+12934745,Holbæk B&I,Silkeborg IF,24/25,Oddset Pokalen,DBU Pokalen 24/25,1,1
+12934746,Esbjerg,AaB,24/25,Oddset Pokalen,DBU Pokalen 24/25,0,0
+12934747,Sønderjyske Fodbold,FC København,24/25,Oddset Pokalen,DBU Pokalen 24/25,1,1
+12587009,Czechia,Belarus,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",1,1
+12588494,Ukraine,Türkiye,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",3,3
+12588498,Finland,Montenegro,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",5,5
+12588501,Austria,Slovenia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",2,2
+12588499,Poland,Romania,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+12588502,Norway,Albania,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",9,9
+12588497,Serbia,Bosnia & Herzegovina,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",5,5
+12588500,Sweden,Luxembourg,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",9,9
+12586998,Northern Ireland,Croatia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",1,1
+12588493,Belgium,Greece,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",5,5
+12586996,Wales,Slovakia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",2,2
+12588496,Ireland,Georgia,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+12586997,Scotland,Hungary,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+12588495,Portugal,Azerbaijan,2024,"Women's Euro, Qualification Playoff","Womens Euro, Qualif. 2024",4,4
+13036833,FC Haka,SJK,2024,"Veikkausliiga, Europa Playoffs",Veikkausliiga 2024,2,2
+13005881,FC St Pauli II U23,VfB Lübeck,24/25,Regionalliga North,Regionalliga North 24/25,2,2
+12877719,1. FC Bocholt,MSV Duisburg,24/25,Regionalliga West,Regionalliga West 24/25,3,3
+12457088,Bayern München II,SpVgg Greuther Fürth II,24/25,Regionalliga Bavaria,Regionalliga Bavaria 24/25,4,4
+13013808,Legon Cities,Asante Kotoko SC,24/25,Premier League,Premier League 24/25,3,3
+12930484,A.E. Kifisia FC,GE Panachaiki,24/25,Greek Cup Betsson,Greece Cup 24/25,2,2
+12930481,Panserraikos,GSS Panionios,24/25,Greek Cup Betsson,Greece Cup 24/25,2,2
+12930474,AO Egaleo,PAOK,24/25,Greek Cup Betsson,Greece Cup 24/25,1,1
+12930500,OFI Crete,Volos NFC,24/25,Greek Cup Betsson,Greece Cup 24/25,3,3
+12930494,AEK Athens,Aris Thessaloniki,24/25,Greek Cup Betsson,Greece Cup 24/25,2,2
+12930490,Athens Kallithea FC,Olympiacos FC,24/25,Greek Cup Betsson,Greece Cup 24/25,1,1
+12970228,APS Zakynthos 1961,Asteras Aktor,24/25,Greek Cup Betsson,Greece Cup 24/25,1,1
+12755454,Esteghlal Khuzestan,Persepolis FC,24/25,Pro League,Pro League 24/25,2,2
+13043050,Al Mina'a,Al-Zawraa,24/25,Stars League,24/25,1,1
+12545898,Arzignano Valchiampo,Aurora Pro Patria,24/25,"Serie C, Girone A","Serie C, Group A 24/25",2,2
+12545894,Atalanta U23,Pro Vercelli,24/25,"Serie C, Girone A","Serie C, Group A 24/25",3,3
+12545892,Caldiero Terme,Giana Erminio,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545889,Trento,Virtus Verona,24/25,"Serie C, Girone A","Serie C, Group A 24/25",2,2
+12545896,Lumezzane,Pergolettese,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545891,Novara,L.R. Vicenza,24/25,"Serie C, Girone A","Serie C, Group A 24/25",0,0
+12545893,Lecco,Alcione Milano,24/25,"Serie C, Girone A","Serie C, Group A 24/25",2,2
+12545887,Triestina,AlbinoLeffe,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545888,Union Clodiense Chioggia,Feralpisalò,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545890,Padova,Renate,24/25,"Serie C, Girone A","Serie C, Group A 24/25",1,1
+12545537,SPAL,Pianese,24/25,"Serie C, Girone B","Serie C, Group B 24/25",1,1
+12545539,Sestri Levante,Ternana,24/25,"Serie C, Girone B","Serie C, Group B 24/25",0,0
+12545543,Carpi,Arezzo,24/25,"Serie C, Girone B","Serie C, Group B 24/25",3,3
+12545541,Gubbio,Vis Pesaro,24/25,"Serie C, Girone B","Serie C, Group B 24/25",1,1
+12545542,Rimini,Legnago Salus,24/25,"Serie C, Girone B","Serie C, Group B 24/25",1,1
+12545547,Milan Futuro,Pineto,24/25,"Serie C, Girone B","Serie C, Group B 24/25",1,1
+12545538,Torres,Perugia,24/25,"Serie C, Girone B","Serie C, Group B 24/25",3,3
+12545544,Ascoli,US Campobasso 1919,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12545540,Pescara,Pontedera,24/25,"Serie C, Girone B","Serie C, Group B 24/25",2,2
+12545536,Virtus Entella,Lucchese,24/25,"Serie C, Girone B","Serie C, Group B 24/25",0,0
+12545199,AZ Picerno,Giugliano,24/25,"Serie C, Girone C","Serie C, Group C 24/25",1,1
+12545192,Trapani,Avellino,24/25,"Serie C, Girone C","Serie C, Group C 24/25",1,1
+12981459,Astana,Atyrau,2024,Premier League,Premier League 2024,4,4
+13023452,Dorados de Sinaloa,Cancún FC,2024,"Liga de Expansion MX, Apertura","Liga de Expansion MX, Apertura 2024",5,5
+12765385,FC Milsami Orhei,FC Petrocub Hîncesti,24/25,Super Liga,Super Liga 24/25,0,0
+12621705,FK Sileks Kratovo,FK Rabotnički Skopje,24/25,1. MFL,1. MFL 24/25,2,2
+12621704,FK Vardar Skopje,AP Brera Strumica,24/25,1. MFL,1. MFL 24/25,1,1
+12621707,KF Gostivar,FK Pelister Bitola,24/25,1. MFL,1. MFL 24/25,0,0
+12621702,KF Shkëndija,Besa 1976,24/25,1. MFL,1. MFL 24/25,3,3
+12621701,Tikveš Kavadarci,FC Struga Trim & Lum,24/25,1. MFL,1. MFL 24/25,0,0
+12621709,Voska Sport,KF Shkupi,24/25,1. MFL,1. MFL 24/25,4,4
+12956238,Sandnes Ulf,Molde FK,2024,NM Cup,NM Cup 2024,1,1
+12956239,Fredrikstad FK,KFUM Oslo,2024,NM Cup,NM Cup 2024,7,7
+12932076,OKS Odra Opole,Pogoń Szczecin,24/25,Puchar Polski,Puchar Polski 24/25,0,0
+12932066,Kotwica Kołobrzeg,Puszcza Niepołomice,24/25,Puchar Polski,Puchar Polski 24/25,1,1
+12932068,Olimpia Grudziądz,Resovia Rzeszów,24/25,Puchar Polski,Puchar Polski 24/25,3,3
+12932085,Radomiak Radom,Śląsk Wrocław,24/25,Puchar Polski,Puchar Polski 24/25,0,0
+12932075,Lech Poznań II,MKS Korona Kielce,24/25,Puchar Polski,Puchar Polski 24/25,2,2
+12932072,Sandecja Nowy Sącz,Pogoń Grodzisk Mazowiecki,24/25,Puchar Polski,Puchar Polski 24/25,1,1
+12932071,MKS Chojniczanka Chojnice,Jagiellonia Białystok,24/25,Puchar Polski,Puchar Polski 24/25,1,1
+12932090,MKS Kluczbork,ŁKS Łódź,24/25,Puchar Polski,Puchar Polski 24/25,0,0
+12932078,Wigry Suwałki,Polonia Warszawa,24/25,Puchar Polski,Puchar Polski 24/25,2,2
+12952270,Unia Skierniewice,GKS Katowice,24/25,Puchar Polski,Puchar Polski 24/25,3,3
+12932087,MZKS Arka Gdynia,Piast Gliwice,24/25,Puchar Polski,Puchar Polski 24/25,1,1
+12932079,Lechia Zielona Góra,Widzew Łódź,24/25,Puchar Polski,Puchar Polski 24/25,7,7
+12522419,Sporting,CD Nacional,24/25,"League Cup, Final round",League Cup 24/25,4,4
+12522418,Benfica,Santa Clara,24/25,"League Cup, Final round",League Cup 24/25,4,4
+12923103,Al-Najma SC,Al-Raed,24/25,King's Cup,Kings Cup 24/25,1,1
+12923107,Al Tai,Al-Hilal,24/25,King's Cup,Kings Cup 24/25,2,2
+12923108,Al-Fayha,AL Arabi (SA),24/25,King's Cup,Kings Cup 24/25,2,2
+12923105,Al-Nassr,Al-Taawoun,24/25,King's Cup,Kings Cup 24/25,0,0
+12923106,Al-Jabalain,Al-Ettifaq,24/25,King's Cup,Kings Cup 24/25,3,3
+12473120,Dunfermline Athletic,Livingston,24/25,Championship,Championship 24/25,3,3
+12473122,Greenock Morton,Queen's Park FC,24/25,Championship,Championship 24/25,0,0
+12473125,Raith Rovers,Airdrieonians,24/25,Championship,Championship 24/25,2,2
+12929943,Kalcer Radomlje,NK Olimpija Ljubljana,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12929932,ND Bilje,FC Koper,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12929942,NK Hodoš,NK Celje,24/25,Slovenia Cup,Slovenia Cup 24/25,0,0
+12929933,NK Rače,NK Brežice 1919,24/25,Slovenia Cup,Slovenia Cup 24/25,3,3
+12929944,NK Tolmin,NK Bravo,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12929945,ŠD Preddvor,NK Maribor,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12929935,Rudar Velenje,NK Aluminij Kidričevo,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12929948,NŠ Mura,NK Zavrč,24/25,Slovenia Cup,Slovenia Cup 24/25,10,10
+12929946,NK Turnišče,Ilirija 1911,24/25,Slovenia Cup,Slovenia Cup 24/25,0,0
+12929936,SD Videm,NK Nafta Lendava 1903,24/25,Slovenia Cup,Slovenia Cup 24/25,0,0
+12929938,NK Bela krajina,NK Polana,24/25,Slovenia Cup,Slovenia Cup 24/25,2,2
+12929937,NK Dokležovje,NK Dobrovce,24/25,Slovenia Cup,Slovenia Cup 24/25,3,3
+12929947,NK Tabor Sežana,FC Drava Ptuj,24/25,Slovenia Cup,Slovenia Cup 24/25,1,1
+12989318,Fatih Karagümrük,Tokat Belediye Plevne Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989312,Adanaspor,Çorluspor 1947,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989304,Ağrı 1970 SK,Beyoğlu Yeni Çarşı FAŞ,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12989285,Muş 1984 Muşspor,İnegölspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989298,Silivrispor,Kayserispor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,5,5
+12989306,Aliağa FK,Anadolu Üniversitesi,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989307,Ankara Demirspor,Erciyes 38 FSK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,4,4
+12989309,Belediye Derincespor,Tire FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989316,Ergene Velimeşe Spor,Sebat Gençlik Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12989319,Fatsa Belediyespor,Karaman FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989288,Karacabey Belediye Spor,Amasyaspor FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989289,Karşıyaka,Viranşehir Belediye Spor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,6,6
+12989293,Kuşadasıspor,Karaköprü Belediyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989290,Küçükçekmece Sinop Spor,Erbaaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,4,4
+12989292,Kırıkkale FK,Yeni Malatyaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989295,Osmaniyespor FK,Serik Belediyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,6,6
+12989299,Somaspor,Belediye Kütahyaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12989286,İnegöl Kafkas Gençlikspor,Hatayspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989302,52 Orduspor,Şanlıurfaspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989308,Bayburt Özel İdare Spor,Samsunspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,3,3
+12989314,Efeler 09 SFK,Adana 01 FK,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,1,1
+12989296,Pendikspor,Ayvalıkgücü Belediyespor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,2,2
+12989313,Edirnespor,Batman Petrolspor,24/25,"Turkiye Kupasi, Qualification",Turkiye Kupasi 24/25,0,0
+12767356,Rukh Lviv,Karpaty Lviv,24/25,Ukraine Cup,Ukraine Cup 24/25,2,2
+12767360,Probiy Horodenka,Bukovyna Chernivtsi,24/25,Ukraine Cup,Ukraine Cup 24/25,1,1
+12767375,UCSA Kyiv,Oleksandria,24/25,Ukraine Cup,Ukraine Cup 24/25,1,1
+12767362,Polissya Zhytomyr,FC Kryvbas Kryvyi Rih,24/25,Ukraine Cup,Ukraine Cup 24/25,3,3
+12767354,Vorskla Poltava,Dynamo Kyiv,24/25,Ukraine Cup,Ukraine Cup 24/25,1,1
+12767369,Shakhtar Donetsk,Zorya Luhansk,24/25,Ukraine Cup,Ukraine Cup 24/25,2,2
+12767348,Veres Rivne,Obolon Kyiv,24/25,Ukraine Cup,Ukraine Cup 24/25,3,3
+12767377,Victoria Sumy,LNZ Cherkasy,24/25,Ukraine Cup,Ukraine Cup 24/25,6,6
+13014313,Rayo Zuliano,Zamora,2024,"Primera Division, Clausura, Main Round, Group A",Primera Division 2024,3,3
+13014305,Deportivo Táchira,Caracas F.C.,2024,"Primera Division, Clausura, Main Round, Group A",Primera Division 2024,2,2
+13014306,Monagas,Carabobo,2024,"Primera Division, Clausura, Main Round, Group B",Primera Division 2024,2,2
+13014308,Estudiantes de Mérida,Deportivo La Guaira,2024,"Primera Division, Clausura, Main Round, Group B",Primera Division 2024,0,0
+13012458,Connah's Quay Nomads,The New Saints,24/25,Cymru Premier,Cymru Premier 24/25,2,2
+13005422,Denmark,Netherlands,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13005420,Italy,Spain,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13019381,Morocco,Senegal,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,7,7
+13006576,England,South Africa,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,2,2
+13005427,Switzerland,France,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,3,3
+13045718,Brazil,Colombia,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,3,3
+13009004,Mexico,Thailand,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,4,4
+13005421,Costa Rica,Panama,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,0,0
+13006577,USA,Argentina,2024,"International Friendly Games, Women",Int. Friendly Games W 2024,4,4
+13041267,USA U17,North Korea U17,2024,"U17 World Cup, Women, Knockout stage","U17 FIFA World Cup, Women 2024",0,0
