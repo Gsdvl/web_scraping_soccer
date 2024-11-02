@@ -1,6 +1,6 @@
-## sofascore_web_scrapping ##
+# sofascore_web_scrapping #
 
-###Projeto realizado para o processo seletivo da empresa THM Estatistica.###
+## Projeto realizado para o processo seletivo da empresa THM Estatistica. ##
 
 O projeto consiste em um programa que realiza uma raspagem de dados do site sofascore \n
 e a partir disso, gera um banco de dados, que possui consultas e views predefinidas \n
